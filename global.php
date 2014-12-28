@@ -12,3 +12,4 @@ $description = "Become familiar with antibiotics to prepare for clinical applica
 $author = "Joon-Sub Chung";
 $year = date("Y"); // Gets server year
 $copyright = "&copy;". $year ." Joon-Sub Chung";
+$pageContent = -1;
