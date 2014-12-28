@@ -8,5 +8,7 @@
 
 $title = "Antibiotic Arsenal";
 $titleFormat = $title . " - ";
-$author = "Joon-Sub Chung";
 $description = "Become familiar with antibiotics to prepare for clinical application on wards";
+$author = "Joon-Sub Chung";
+$year = date("Y"); // Gets server year
+$copyright = "&copy;". $year ." Joon-Sub Chung";
