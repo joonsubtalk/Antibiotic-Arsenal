@@ -13,3 +13,5 @@ $author = "Joon-Sub Chung";
 $year = date("Y"); // Gets server year
 $copyright = "&copy;". $year ." Joon-Sub Chung";
 $pageContent = -1;
+
+require_once("credential.php");

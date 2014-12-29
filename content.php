@@ -49,11 +49,12 @@ switch ($pageContent):
         </div>
     </div> <!-- /container -->
 <?php break;?>
+
 <?php default : ?>
     <div class="container content" role="main">
         <div class="row">
             <div class="col-md-10 col-md-offset-1">
-                <h1>Test</h1>
+                <h1>404 Error</h1>
                 <div class="page-navigation">
                     <button type="button" class="btn btn-default pull-right">Next</button>
                 </div>

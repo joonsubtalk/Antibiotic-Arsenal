@@ -1,0 +1,2206 @@
+
+<!-- 002 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Objectives</h1>
+  <li>Increase familiarity with classes of antibiotics and their mechanisms of action</li>
+  <li>Increase familiarity with the spectrum of coverage of antibiotic classes</li>
+  <li>Review basic concepts of antibiotic therapy</li>
+  <li>Help students have a basic framework for building upon when taught about clinical application on wards</li>
+  <li>Gauge usefulness of having such a module for preparation and review before and during the clinical year</li>
+</div>
+<!-- End -->
+
+<!-- 003 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>How to use this module:</h1>
+  <li>Use this module</li>
+    <ul>
+        <li>learn the classes</li>
+        <li>recognize the antibiotics available</li> 
+    </ul>
+  <li>Use this module to build a framework in understanding how antibiotics function so you have a foundation on which to learn clinical applications on the wards</li>
+  <li>Dose ranges are for your reference only, so you get an idea of how you might prescribe them.</li>
+</div>
+<!-- End -->
+
+
+<!-- 004 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Antibiotics</h1>
+  <li>Antibacterial agents can be classified by how they work:</li>
+   <ul>
+  	<li>inhibition of synthesis and damage to the <b>peptidoglycan cell wall</b> (e.g. beta-lactams)</li>
+  	<li>inhibition of synthesis or damage to the <b>cytoplasmic membrane</b> (e.g. polymyxins, daptomycin)</li>
+  	<li>modification of synthesis or break down of <b>nucleic acids</b> (e.g. quinolones, rifampin)</li>
+  	<li>inhibition or modification of <b>protein synthesis</b> (e.g. aminoglycosides, tetracyclines)</li>
+  	<li>disruption of <b>bacterial energetics</b> (e.g. metronidazole)</li>
+    </ul>
+      </div>
+<!-- End -->
+
+<!-- 005 This is a new slide -->
+<div class="Picture"><!-- Picture, Test, Question-->Help insert the picture
+  <h1>Sites of action</h1>
+  <img src = "">
+</div>
+<!-- End -->
+
+
+<!-- 006 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Spectrum of Activity</h1>
+  <li>Refers to the species of microorganisms affected by the drug.</li>
+  <li>Narrow spectrum drugs: active against a single or limited group of microorganisms.  (e.g,  isoniazid is active only against mycobacteria, vancomycin only active against gram-positive bacteria.)</li>
+  <li>Extended spectrum drugs: effective against a significant number of both gram-positive and gram-negative bacteria.  (e.g., ampicillin.)</li>
+  <li>Broad spectrum drugs: that affect a wide variety of microbial species. (e.g., tetracyclines, chloramphenicol, and the fluoroquinolones.)</li>
+  <li>NOTE: Use of a broad spectrum antibiotic drug can alter the composition of the normal bacterial composition of the body and lead to a superinfection.</li>
+</div>
+<!-- End -->
+
+<!-- 007 This is a new slide -->
+<div class="Question"><!-- Picture, Test, Question--> HELP with picture
+  <h1>What is a potential complication of administering broad spectrum antibiotics as shown in picture below?</h1>
+<img src ="...">  
+<ul>
+    <li>Re-infection</li>
+    <li><b>Superinfection</b></li>
+    <li>Inadequate treatment</li>
+    <li>Mucosal breakdown</li>
+  </ul>
+</div>
+<!-- End -->
+
+<!-- 008 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question--> Help, insert 2 pictures
+  <h1>Review of Gram-positive and Gram-negative</h1>
+  <li>Examples of Gram-positive organisms</li>
+	<ul>
+	<li>Staphylococcus aureus (S.aureus)</li>
+	<li>Streptococcus pneumoniae (S. pneumoniae)</li>
+	<li>Enterococcus</li>
+	<li>Corynebacterium dipheriae</li>
+	<li>Bacillus anthracis (B. anthracis)</li>
+	<li>Clostridium tetanus</li>
+	<li>Clostridium botulinum (C. botulinum)</li>
+	</ul>
+  <li>Examples of Gram-negative organisms</li>
+	<ul>  
+	<li>Neisseria meningitidis (N. meningitidis)</li>
+  	<li>Treponema pallium (T. pallidum)</li>
+  	<li>Campylobacter jejuni (C. jejuni)</li>
+  	<li>Vibrio cholera</li>
+	<li>Helicobacter pylori (H. pylori)</li>
+  	<li>Pasteurella multocida</li>
+	<li>Escherichia coli (E. coli)</li>
+	<li>Haemophilus influenzae (H. influenzae)</li>
+    	</ul>
+  </div>
+<!-- End -->
+
+<!-- 009 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Classes of Antibiotics</h1>
+    <li>Beta-lactam antibiotics</li>
+	<ul>
+	<li>Penicillins</li>
+	<ul>
+		<li>Beta-lactamase inhibitors</li>
+	</ul>
+	<li>Cephalosporins</li>
+	<li>Carbapenems</li>
+	<li>Monobactams</li>
+	</ul>
+    <li>Fluoroquinolones</li>
+    <li>Macrolides</li>
+    <li>Aminoglycosides</li>
+    <li>Tetracyclines</li>
+    <li>Other protein synthesis inhibitors</li>
+    <li>Cell membrane disrupters</li>
+    <li>Antimetabolites</li>
+    <li>Antituberculin antibiotics</li>
+    <li>Anti-leprosy antibiotics</li>
+    
+</div>
+<!-- End -->
+
+<!-- 010 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Penicillin-family antibiotics</h1>
+  <li>BACTERIOCIDAL</li>
+  <li>Gram-positive and gram-negative organism have cross-linked peptidoglycan in their cell walls catalyzed by transpeptidase</li>
+  <li>The penicillin antibiotic needs to penetrate the outer layers into the cytoplasmic membrane where the transpeptidase (aka penicillin-binding protein, PBP) is located.</li>
+  <li>In gram-negative bacteria, the penicillin passes through porins.</li>
+  <li>The penicillin beta-lactam ring binds to and competitively inhibits the transpeptidase enzyme – cell wall synthesis is disrupted during active replication and the bacteria DIES.</li>
+</div>
+<!-- End -->
+
+<!-- 011 This is a new slide -->
+<div class="Question"><!-- Picture, Test, Question-->
+  <h1>What is the site of action of the beta-lactam antibiotics?</h1>
+  <ul>
+    <li>Peptidoglycan linkages</li>
+    <li>Ribosomal subunits</li>
+    <li><b>Transpeptidase</b></li>
+    <li>Microtubules</li>
+    <li>Purine synthesis pathway</li>
+  </ul>
+</div>
+<!-- End -->
+
+<!-- 012 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Resistance mechanisms to beta-lactam antibiotics</h1>
+  <li>Beta-lactamase enzymes that cleave the C-N bond in the beta-lactam ring. Gram positive bacteria (e.g., Staphylococcus aureus) secrete penicillinase (a class of beta-lactamase), whereas gram negative bacteria have the enzyme bound to their membranes</li>
+  <li>Alteration of transpeptidase enzyme so antibiotic cannot bind (e.g., MRSA)</li>
+  <li>Gram negative bacteria in particular develop resistance with alteration of porins (i.e., antibiotics must be right size and charge to pass through porin channels)</li>
+  </div>
+<!-- End -->
+
+<!-- 013 This is a new slide -->
+<div class="Question"><!-- Picture, Test, Question-->
+  <h1>Which of the following is NOT a mechanism of resistance against beta-lactam antibiotics?</h1>
+  <ul>
+    <li>Secretion of enzymes that break down beta-lactam rings</li>
+    <li>Alteration of transpeptidase enzyme</li>
+    <li>Decreased permeability through alteration of porins</li>
+    <li><b>Active efflux pumps</b></li>
+    <li>None of the above are mechanisms of resistance</li>
+    </ul>
+</div>
+<!-- End -->
+
+<!-- 014 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Types of Penicillin</h1>
+  <li>Penicillin G</li>
+  <li>Aminopenicillins – increased gram-negative coverage </li>
+  <li>Penicillinase-resistant penicillins</li>
+  <li>Anti-pseudamonal penicillins – including the carboxypenicillins, and ureidopenicillins</li>
+  </div>
+<!-- End -->
+
+<!-- 015 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Penicillin G</h1>
+    <li>Discovered by Alexander Flemming</li>
+    <li>Sensitive to beta-lactamases</li>
+    <li>Usually given IV or IM</li>
+    <li>Oral form is penicillin V – acid stable in the stomach</li>
+    <li>Pregnancy risk B</li>
+    <li>Poor penetration into CSF, even when inflamed</li>
+    <li>Hepatic metabolism, excreted in urine</li>
+    <li>Used for susceptible infections (sepsis, pneumonia, endocarditis, meningitis, anthrax); active against some gram-positive and gram-negative organisms, some anaerobes and spirochetes</li>
+    <ul><li>Pneumonia caused by Streptococcus pneumoniae</li>
+	<li>Syphillis</li>
+	</ul> 
+    <li>Typical dose for Neurosyphillis: IV: 18-24 million units/day in divided doses q4h or continuous infusion for 10-14 days</li>
+</div>
+<!-- End -->
+
+<!-- 001 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Aminopenicillins</h1>
+  <li>Ampicillin and amoxicillin</li>
+  <li>Broader spectrum with more gram-negative coverage including E. coli, other enterics (Proteus, Salmonella, Shigella, etc.)</li>
+  <li>Beta-lactamase sensitive</li>
+  <li>Effective against gram-positive enterococcus</li>
+  <li>Both can be taken orally but amoxicillin is more effectively absorbed</li>
+  <li>IV ampicillin often used with other antibiotics such as aminoglycosides for broad gram-negative coverage</li>
+  </div>
+<!-- End -->
+
+
+<!-- 017 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Ampicillin-sulbactam (Unasyn)</h1>
+    <li>A beta-lactam/beta-lactamase inhibitor combination</li>
+<li>Active against MSSA, streptococci, enterococci (amp-sensitive types), and anaerobes.</li>
+<li>Limited gram-negative coverage</li>
+<li>Pregnancy risk B</li>
+<li>Excreted in urine</li>
+<li>Consider use: human/animal bites, oral infections, lung abscesses, culture-negative endocarditis</li>
+<li>Dose (example) 1.5-3g IV q6-8h (max 12g/day)</li>
+<ul><li>Oral: 250-500 mg q6h</li></ul>
+<li>A rash (non-allergic) appears in 5-10% of children – a generalized dull red, maculopapular rash 3-14 days after start of therapy. It begins on the trunk and spreads, most intense at pressure areas.</li>
+</div>
+<!-- End -->
+
+
+<!-- 018 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Amoxicillin-clavulanate (Augmentin)</h1>
+    <li>Oral absorption rapid, near complete, food does not interfere with absorption</li>
+<li>Pregnancy risk B</li>
+<li>Partial hepatic metabolism; excreted in urine.</li>
+<li>Use: Treatment of otitis media, sinusitis, infections with susceptible organisms in upper and lower respiratory tract, skin, urinary tract; in regimen for H. pylori eradication; periodontitis</li>
+<li>Usual dosage: Oral 250-500 mg q8h</li>
+</div>
+<!-- End -->
+
+<!-- 019 This is a new slide -->
+<div class="Question"><!-- Picture, Test, Question-->
+  <h1>Which of the following is better for oral administration?</h1>
+  <ul>
+    <li><b>Amoxicillin</b></li>
+    <li>Ampicillin</li>
+  </ul>
+</div>
+<!-- End -->
+
+
+<!-- 020 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Penicillinase-resistant penicillins</h1>
+  <li>Methicillin, nafcillin, oxacillin are penicillinase resistant antibiotics vs Staphylococcus aureus – given IV</li>
+<li>Methicillin discontinued because of occurrence of interstitial nephritis but used in sensitivity testing</li>
+<li>Nafcillin – drug of choice for serious Staphylococcus aureus infections such as cellulitis, endocarditis, and sepsis</li>
+<li>Oral beta-lactamase resistant penicillins: cloxacillin and dicloxacillin – not good against gram- negative organisms</li>
+</div>
+<!-- End -->
+
+<!-- 021 This is a new slide -->
+<div class="Text"><!-- Picture, Text, Question-->
+  <h1>Nafcillin</h1>
+    <li>Resistant to inactivation by penicillinase</li>
+<li>Given IM or IV</li>
+<li>Primarily hepatic metabolism, excreted in feces</li>
+<li>Pregnancy risk B</li>
+<li>Use: treatment of infections such as osteomyelitis, bacteremia, septicemia, endocarditis, and CNS infections caused by susceptible strains of Staphylococcus aureus</li>
+<li>Typical dose for MSSA prosthetic joint infection: IV 1.5-2g q4-6h for 4-6 weeks, followed by oral antibiotic treatment</li>
+</div>
+<!-- End -->
+
+<!-- 022 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Oxacillin</h1>
+  <li>Oxacillin contains 2.5mEq of Na per gram</li>
+<li>Pregnancy risk B</li>
+<li>Hepatic metabolism, excreted in urine and bile</li>
+<li>Use: susceptible Staphylococcal infections</li>
+<li>Typical dose for endocarditis: 2g IV q4h with gentamicin</li>
+</div>
+<!-- End -->
+
+<!-- 023 This is a new slide -->
+<div class="Text"><!-- Picture, Text, Question-->
+  <h1>Cloxacillin</h1>
+    <li>Use: not approved in US</li>
+<li>Hepatic metabolism, excreted in urine and feces</li>
+<li>Food decreases cloxacillin absorption</li>
+<li>Typical dose: Oral, IM, IV 250-500 mg q6h (max adult dose 6g/day)</li>
+</div>
+<!-- End -->
+
+<!-- 024 This is a new slide -->
+<div class="Text"><!-- Picture, Text, Question-->
+  <h1>Dicloxacillin</h1>
+  <li>Food decreases absorption
+<li>Pregnancy risk B</li>
+<li>Excreted in feces, urine</li>
+<li>Use: Treatment of systemic infections: pneumonia, skin/soft tissue infections, osteomyelitis caused by penicillinase producing staphylococci</li>
+<li>Typical dose: Oral 125-500 mg q6h</li>
+</div>
+<!-- End -->
+
+<!-- 025 This is a new slide -->
+<div class="Question"><!-- Picture, Test, Question-->
+  <h1>Which of the following penicillinase resistant penicillins can be given orally?</h1>
+  <ul>
+    <li>Nafcillin</li>
+<li>Oxacillin</li>
+<li><b>Dicloxacillin</b></li>
+ </ul>
+</div>
+<!-- End -->
+
+<!-- 026 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Anti-pseudamonal penicillins</h1>
+  <li>Carboxypenicillins (ticarcillin, carbenicillin)</li>
+<li>Ureidopenicillins (piperacillin, mezlocillin)</li>
+<li>Have extended gram-negative rod coverage</li>
+<li>Effective against anaerobes (like Bacteroides fragilis) and many gram-positive organisms</li>
+<li>Like aminopenicillins, these drugs are combined with aminoglycosides; double coverage of pseudamonas (piperacillin + gentamycin, ticarcillin + gentamycin)</li>
+</div>
+<!-- End -->
+
+<!-- 027 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Ticarcillin-clavulanate (Timentin)</h1>
+    <li>Pregnancy risk B</li>
+<li>Excreted in urine</li>
+<li>Treats Pseudamonas aeruginosa</li>
+<li>Use: bone/joint infections, endometritis, lower respiratory tract infections, peritonitis, septicemia, skin/soft tissue infections, urinary tract infections</li>
+<li>Typical dose in systemic infections:  >60kg: 3.1g IV q4-6h</li>
+
+</div>
+<!-- End -->
+
+<!-- 028 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Piperacillin-tazobactam (Zosyn)</h1>
+  <li>Pregnancy risk B</li>
+<li>Clearance of piperacillin and tazobactam are proportional to renal function</li>
+<li>Treats Pseudamonas aeruginosa</li>
+<li>Use: community acquired pneumonia, intra-abdominal infections, nosocomial pneumonia, pelvic infections, skin/skin-structure infections</li>
+<li>Usual dosage: IV 3.375g q6h or 4.5g q6-8h (max 18g/day)</li>
+</div>
+<!-- End -->
+
+<!-- 029 This is a new slide -->
+<div class="Question"><!-- Picture, Test, Question-->
+  <h1>Beta-lactamase inhibitors</h1>
+    <li>Clavulanic acid</li>
+<li>Sulbactam</li>
+<li>Tazobactam</li>
+<li>These are given in combination with penicillins to create beta-lactamase resistant combination</li>
+<ul><li>Amoxicillin + clavulanate = Augmentin</li>
+<li>Ticarcillin + clavulanate = Timentin</li>
+<li>Ampicillin + sulbactam = Unasyn</li>
+<li>Piperacilin + tazobactam = Zosyn</li>
+</ul>
+</div>
+<!-- End -->
+
+<!-- 030 This is a new slide -->
+<div class="Question"><!-- Picture, Test, Question-->
+  <h1>Which of the following combinations are correct?</h1>
+    <ul>
+      <li>Piperacillin-clavulanate, Zosyn</li>
+<li>Ticarcillin-tazobactam, Zosyn</li>
+<li><b>Ampicillin-sulbactam, Unasyn </b></li> 
+<li>Amoxicillin-sulbactam, Augmentin</li>
+    </ul>
+  </div>
+<!-- End -->
+
+<!-- 031 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Cephalosporins</h1>
+<li>2 advantages over penicillins:</li>
+<ul>
+ <li>more resistant to beta-lactamases (but susceptible to cephalosporinases),</li>
+<li> new R-side chain (new spectrum of activity)</li></ul>
+<li>5 generations</li>
+<li>Earlier generations have more gram positive coverage, later generations have more gram negative coverage</li>
+<li>May enhance the anticoagulant effect of vitamin K antagonists</li>
+<li>10% cross-over with penicillin allergies</li>
+</div>
+<!-- End -->
+
+<!-- 032 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>First Generation Cephalosporins</h1>
+  <li>Excellent gram-positive coverage</li>
+<li>Alternative to penicillins for staph/strep when patients have allergies to penicillin</li>
+<li>1st generation (ph)</li>
+<ul><li>Cephalothin (oldest of the 1st generation),</li>
+<li>Cephapirin, </li>
+<li>Cephradine, </li>
+<li>Cephalexin, </li>
+<li>Cefazolin, </li>
+<li>Cefadroxil</li></ul>
+</div>
+<!-- End -->
+
+<!-- 033 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Cephalexin (Keflex)</h1>
+    <li>First generation cephalosporin</li>
+<li>Rapid absorption (90%)</li>
+<li>Pregnancy risk B</li>
+<li>Excreted in urine within 8 hours</li>
+<li>Use: susceptible bacterial infections, otitis media, skin/skin-structure infections, bone and genitourinary tract infections, alternative therapy for infective endocarditis prophylaxis</li>
+<li>Typical dosing range: Oral 250-1000mg q6h (max 4g/day)</li>
+</div>
+<!-- End -->
+
+<!-- 034 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Cefazolin (Ancef)</h1>
+  <li>First generation cephalosporin</li>
+<li>Pregnancy risk B</li>
+<li>Poor CSF penetration</li>
+<li>Minimal hepatic metabolism; excreted in urine</li>
+<li>Use: biliary tract infections, bone/joint infections, endocarditis, genital infections, perioperative prophylaxis, respiratory tract infections, septicemia, skin/skin-structure infections, UTIs</li>
+<li>Typical dose range: IM, IV 1-1.5g q8h (max 12 g/day)</li>
+</div>
+<!-- End -->
+
+<!-- 035 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Cefadroxil</h1>
+    <li>First generation cephalosporin</li>
+<li>Rapid oral absorption</li>
+<li>Pregnancy risk B</li>
+<li>Excreted in urine</li>
+<li>Use: pharyngitis and/or tonsillitis, skin/skin-structure infections, urinary tract infections</li>
+<li>Typical dose for susceptible infections: Oral 1-2g daily in single dose or 2 divided doses.</li>
+</div>
+<!-- End -->
+
+<!-- 036 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Second Generation Cephalosporins</h1>
+  <li>More gram-negative rod coverage</li>
+<li>2nd generation (fam, fa, fur, fox, te):</li>
+<ul><li>Cefamandole,</li> 
+<li>Cefaclor,</li> 
+<li>Cefuroxime, </li>
+<li>Cefoxitin, </li>
+<li>Cefotetan,</li>
+<li>Cefmetazole, </li>
+<li>Cefonicid, </li>
+<li>Cefprozil, </li>
+<li>Loracarbef</li></ul>
+</div>
+<!-- End -->
+
+<!-- 037 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Cefaclor</h1>
+    <li>Second generation cephalosporin</li>
+<li>Well absorbed, acid-stable</li>
+<li>Pregnancy risk B</li>
+<li>Partial hepatic metabolism, excreted in urine</li>
+<li>Use: treatment of susceptible bacterial infections including otitis media, lower respiratory tract infections, acute exacerbations of bronchitis, pharyngitis and tonsillitis, skin/skin-structure infections, UTIs</li>
+<li>Typical dose: (adult) Oral 250-500mg q8h</li>
+</div>
+<!-- End -->
+
+
+<!-- 038 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Cefuroxime (Ceftin, Zinacef)</h1>
+  <li>Second generation cephalosporin</li>
+<li>Oral absorption increases with food</li>
+<li>Therapeutic concentrations reached in CSF even when not inflamed</li>
+<li>Pregnancy risk B</li>
+<li>Excreted in urine</li>
+<li>Use: treatment of infections caused by Staplylococci, group B streptococci, H. influenze, E. coli, Enterobacter, Salmonella, Klebsiella; susceptible infections in upper and lower respiratory tract, otitis media, bone/joint infections, sepsis, skin/soft-tissue infections, UTI, early Lyme disease, surgical prophylaxis</li> 
+<li>Typical dose for bronchitis: Oral 250-500 mg q8h, IV 500-750 mg q8h, can be given IM.</li>
+</div>
+<!-- End -->
+
+<!-- 039 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Cefoxitin (Mefoxin)</h1>
+    <li>Second generation cephalosporin</li>
+<li>Activity against S. aureus, Streptococcus species, Clostridium spp., E. coli, N. gonorrhoeae, B. fragilis, Clostridum species, Klebsiella species, H. influenzae, Proteus vulgaris, etc.</li>
+<li>Active against anaerobes (B. fragilis)</li>
+<li>No activity against Chlamydia trachomatis</li>
+<li>Poor CSF penetration, even with inflammation</li>
+<li>Excreted in urine</li>
+<li>Pregnancy risk B</li>
+<li>Use: Bone/joint, gynecological, intra-abdominal, lower respiratory tract, skin/skin-structure, & urinary tract infections; perioperative prophylaxis, septicemia</li>
+<li>Typical dose: IV 1-2g q6-8h (can be IM, max dose 12g/day)</li>
+</div>
+<!-- End -->
+
+<!-- 040 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Cefotetan</h1>
+  <li>Second generation cephalosporin</li>
+<li>Active against gram-negative enteric bacilli (e.g. E. coli, Klebsiella, Proteus, less active vs Staphylococci/Streptococci, but has anaerobic activity vs B. fragilis)</li>
+<li>Can cause a disulfiram-like reaction with EtOH</li>
+<li>Pregnancy risk B</li>
+<li>Excreted primarily in urine and feces (20%)</li>
+<li>Use: surgical prophylaxis, intra-abdominal/other mixed infections, respiratory tract, skin/skin structure, bone/joint, gynecological, & urinary tract infections, septicemia</li>
+<li>Typical dose range: IM, IV 1-6g daily in divided doses q12h</li>
+</div>
+<!-- End -->
+
+<!-- 041 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Cefprozil</h1>
+    <li>Second generation cephalosporin</li>
+<li>Active against MSSA, many streptococci, and various gram-negative bacilli including E.coli, some Klebsiella, P. mirabilis, H. influenzae, and Moraxella.</li>
+<li>Pregnancy risk B</li>
+<li>Excreted in urine</li>
+<li>Use: treatment of otitis media, respiratory tract, skin/skin-structure infections</li>
+<li>Typical dose range: Oral 250-500mg q12-24h</li>
+</div>
+<!-- End -->
+
+<!-- 042 This is a new slide -->
+<div class="Question"><!-- Picture, Test, Question-->
+  <h1>Which of the following are 1st generation cephalosporins?</h1>
+  <ul>
+<li><b>Cephalexin</b></li>
+<li>Cefaclor</li>
+<li>Cefoxitin</li>
+<li>Cefotetan</li>
+<li><b>Cefazolin</b></li>
+<li><b>Cefadroxil</b></li>
+<li>Cefprozil</li></ul>
+</div>
+<!-- End -->
+
+<!-- 043 This is a new slide -->
+<div class="Question"><!-- Picture, Test, Question-->
+  <h1>Which of the following second generation cephalosporins has anaerobic coverage against B. fragilis?</h1>
+  <ul>
+    <li>Cefaclor</li>
+<li><b>Cefoxitin</b></li>
+<li>Cefuroxime</li>
+<li><b>Cefotetan</b></li>
+<li>Cefprozil</li>
+</ul>
+</div>
+<!-- End -->
+
+<!-- 044 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>3rd Generation Cephalosporins</h1>
+  <li>Use for multi-drug resistant aerobic gram-negative organisms that cause hospital acquired pneumonia, meningitis, sepsis, UTI</li>
+<li>3rd generation (tri):</li>
+<ul><li>Ceftriaxone,</li>
+<li>Ceftazidime, </li>
+<li>Cefotaxime, </li>
+<li>Ceftizoxime, </li>
+<li>Cefixime, </li>
+<li>Cefoperazone, </li>
+<li>Cefpodoxime, </li>
+<li>Cefetamet</li></ul>
+<li>3rd generation cephalosporins may enhance the nephrotoxic effect of Aminoglycosides</li>
+</div>
+<!-- End -->
+
+<!-- 045 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Ceftriaxone (Rocephin)</h1>
+    <li>Third generation cephalosporin</li>
+<li>Pregnancy risk B</li>
+<li>Excreted in urine and feces</li>
+<li>Use: lower respiratory tract, intra-abdominal, bone/joint, skin/skin-structure, & urinary tract infections, PID, uncomplicated gonorrhea, bacterial septicemia, meningitis, perioperative prophylaxis</li>
+<li>Can be given as meningitis prophylaxis</li>
+<li>Typical dose range: IV 1-2g q12-24h, can be administered IM</li>
+</div>
+<!-- End -->
+
+<!-- 046 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Ceftazidime (Fortaz, Tazicef)</h1>
+  <li>Third generation cephalosporin</li>
+<li>Pregnancy risk B</li>
+<li>Good CSF penetration, especially when inflammation present</li>
+<li>Excreted in urine</li>
+<li>Use: septicemia (P. aeruginosa, Klebsiella spp., H. influenzae, E. coli, Serratia spp., Strep/Staph), CNS, lower respiratory, bone/joint, intra-abdominal, gynecological, skin/skin-structure, & urinary tract infections; empiric therapy in the immunocompromised patient</li>
+<li>Typical dose range: IV 1-2g q8h</li>
+</div>
+<!-- End -->
+
+<!-- 047 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Cefotaxime (Claforan)</h1>
+    <li>Third generation cephalosporin</li>
+<li>Covers Strep/Staph (non-penicillinase producing strains), gram negative enterics, N. meningitidis, etc. </li>
+<li>Has activity in the presence of some beta-lactamases</li>
+<li>Pregnancy risk B</li>
+<li>Partially hepatic metabolism to active metabolite, excreted in urine</li>
+<li>Use: Bacteremia/septicemia; CNS, lower respiratory tract, bone/joint, intra-abdominal, gynecologic, genitourinary, & skin/skin structure infections; surgical prophylaxis </li>
+<li>Typical dosage: IM, IV 1-2g q4-12h</li>
+</div>
+<!-- End -->
+
+<!-- 048 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Cefixime (Suprax)</h1>
+  <li>Third generation cephalosporin</li>
+<li>Pregnancy risk B</li>
+<li>Excreted in urine and feces (10%)</li>
+<li>Use: treatment of uncomplicated UTIs (E. coli, P. mirabilis), otitis media (H. influenzae, M. catarrhalis, S. pyogenes), acute exacerbations of bronchitis, uncomplicated cervical/urethral gonorrhea (no longer prefered due to resistance)</li>
+<li>Typical dose: Oral 400 mg daily divided q12-24h</li>
+</div>
+<!-- End -->
+
+<!-- 049 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Cefoperazone and sulbactam</h1>
+    <li>Third generation cephalosporin</li>
+<li>Available in various countries internationally, not available in US</li>
+<li>Has activity against pseudamonas</li>
+<li>Use: upper and lower respiratory tract, bone/joint, abdominal, genital tract, & skin/soft-tissue infections; septicemia, meningitis, peritonitis, cholecystitis, cholangitis, PID, endometritis, gonorrhea</li>
+<li>Typical dose: IM, IV 1-2g q12h, (4g max daily of sulbactam)</li>
+</div>
+<!-- End -->
+
+<!-- 050 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Cefpodoxime</h1>
+  <li>Third generation cephalosporin</li>
+<li>Rapid absorption orally, acid stable, enhanced with food</li>
+<li>Activated in GI tract by de-esterification</li>
+<li>Pregnancy risk B</li>
+<li>Excreted in urine</li>
+<li>Use: susceptible acute community acquired pneumonia (S. pneumoniae or nonbeta-lactamase producing H. influenzae), acute uncomplicated gonorrhea, uncomplicated skin/skin structure infections (S. aureus/S. pyogenes), acute otitis media, pharyngitis, tonsillitis, and uncomplicated UTIs </li>
+<li>Typical dose range: Oral 100-400mg q12h</li>
+</div>
+<!-- End -->
+
+<!-- 051 This is a new slide -->
+<div class="Question"><!-- Picture, Test, Question-->
+  <h1>Which of the following third generation cephalosporins covers Pseudamonas aeruginosa?</h1>
+  <ul>
+    <li>Ceftriaxone</li>
+<li><b>Ceftazidime</b></li>
+<li> Cefotaxime </li>
+<li> Cefixime</li>
+<li>Cefpodoxime </li>
+  </ul>
+</div>
+<!-- End -->
+
+<!-- 052 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>4th Generation Cephalosporin: Cefepime (Maxipime)</h1>
+  <li>Fourth generation cephalosporin</li>
+<li>May enhance the nephrotoxic effect of Aminoglycosides</li>
+<li>Has extended spectrum from 3rd generation, with increased gram-positive and pseudamonal coverage</li>
+<li>Metabolism: minimally hepatic; excreted in urine</li>
+<li>Use: febrile neutropenia, pneumonia (mod/severe) including P. aeruginosa, skin/skin-structure infections, urinary tract (including pyelonephritis) caused by E. coli, K. pneumoniae, P. mirabilis, intra-abdominal infections (in combination with metronidazole)</li>
+<li>Typical dose: IV 1-2g q8h, can be given IM</li>
+</div>
+<!-- End -->
+
+<!-- 053 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>5th Generation Cephalosporin Ceftaroline (Teflaro)</h1>
+    <li>Broad spectrum cephalosporin with additional activity against MRSA, and vancomycin-resistant Enterococcus (VRE) faecalis. </li>
+<li>Ceftaroline has a strong affinity for PBP2a, a modified PBP in MRSA, and PBP2x in S. pneumoniae, contributing to its spectrum of activity against these bacteria.</li>
+<li>Not active against nonfermentative gram-negative bacilli such as Pseudomonas or Acinetobacter.</li> 
+<li>May have limited activity against anaerobes such as Bacteroides fragilis.</li>
+<li>FDA approved for skin/skin structure infections, and community acquired pneumonia.</li>
+<li>Metabolism: inactive prodrug rapidly converted to active ceftaroline in plasma by phosphatase enzyme; ceftaroline is hydrolyzed to form inactive form; excreted in urine primarily, feces (~6%)</li>
+<li>Example dose: 600mg IV q12h</li>
+</div>
+<!-- End -->
+
+
+<!-- 054 This is a new slide -->
+<div class="Question"><!-- Picture, Test, Question-->
+  <h1>Which of the following is active against Pseudamonas aeruginosa?</h1>
+  <ul><li><b>4th generation cephalosporin cefepime</b></li>
+<li>5th generation cephalosporin ceftaroline</li>
+</ul>
+  </div>
+<!-- End -->
+
+<!-- 055 This is a new slide -->
+<div class="Question"><!-- Picture, Test, Question-->
+  <h1>Which of the following Cephalosporins have good anaerobic coverage and are used for intra-abdominal infections and colorectal surgery prophylaxis?</h1>
+  <ul>
+    <li>Ceftaroline</li>
+<li>Cefepime</li>
+<li><b>Cefotetan</b></li>
+<li>Cephalexin</li>
+<li><b>Cefoxitin</b></li>
+<li>Ceftriaxone</li>
+  </ul>
+</div>
+<!-- End -->
+
+<!-- 056 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Carbapenems</h1>
+  <li>A class of beta-lactam antibiotics with a broad spectrum of activity and a structure that makes them resistant to most beta-lactamases.</li>
+<li>Drugs that are approved for use in the US include:</li>
+<ul><li>Imipenem</li> 
+<li>Meropenem</li>
+<li>Ertapenem</li>
+<li>Doripenem</li></ul>
+<li>Resistance to carbapenems in MRSA, some pseudamonal species, and bacteria with no peptidoglycan in their walls (mycoplasma)</li>
+<li>Development of resistance is a growing concern</li>
+
+</div>
+<!-- End -->
+
+<!-- 057 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Imipenem (Primaxin)-Cilastatin</h1>
+    <li>Very small, easier passage through porins</li>
+<li>Resistance can develop as some bacteria can hydrolyze imipenem or decrease the size of porins</li>
+<li>Normal kidneys have dihydropeptidase which breaks down imipenem –can be administered with inhibitor: Cilastatin</li>
+<li>Lowers seizure threshold</li>
+<li>Broadest antibacterial activity vs gram-negative, gram-positive, anaerobes, and Pseudamonas aeruginosa and enterococcus</li>
+<li>Pregnancy risk C</li>
+<li>Both excreted in urine.</li>
+<li>Use: lower respiratory tract, intra-abdominal, gynecologic, bone/joint, skin/skin structure infections; endocarditis (S. aureus and Streptococcus spp.), resistant gram-positive/gram-negative bacteria (including extended spectrum beta-lactamase producing E. coli, Klebsiella spp, Enterobacter spp., and Pseudamonas aeruginosa), and anaerobes.</li>
+<li>Typical dose range: Weight >70kg IV 250-1000mg q6-8h (max 4g/day).</li>
+</div>
+<!-- End -->
+
+
+<!-- 058 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Meropenem (Merrem)</h1>
+  <li>Meropenem has reduced seizure potential over imipenem</li>
+<li>Pregnancy risk B</li>
+<li>Hepatic metabolism, excreted in urine, feces (2%)</li>
+<li>Use: lower respiratory tract, intra-abdominal infections , septicemia, (complicated appendicitis/peritonitis), bacterial meningitis, gynecologic (excluding Chlamydia), complicated skin/skin-structure, and urinary tract infections </li>
+<li>Typical dose range: IV 1.5-6g daily divided q8h</li>
+</div>
+<!-- End -->
+
+<!-- 059 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Ertapenem (Invanz)</h1>
+    <li>Has a narrower spectrum than imipenem or meropenem; has activity in vitro against many gram-negative organisms; most extended spectrum beta-lactamase producing bacteria remain sensitive</li>
+<li>Long half life; can be administered once a day</li>
+<li>NOTE: MRSA, Enterococcus spp, penicillin-resistant S. pneumoniae, Pseudomonas aeruginosa, and Acinetobacter are resistant to ertapenem</li>
+<li>Pregnancy risk B</li>
+<li>Excreted in urine, feces (10%)</li>
+<li>Use: moderate to severe infections: acute pelvic infections (endomyometritis, septic abortion); community acquired pneumonia, complicated intra-abdominal, skin/skin-structure (diabetic foot infections without osteomyelitis), urinary tract infections, prophylaxis of surgical site infection in colorectal surgery.</li>
+<li>Typical dose: 1g IV q24h (adjust for renal function), can be given IM</li>
+<li>Toxicity: diarrhea, nausea, headache, phlebitis/thrombophlebitis</li>
+</div>
+<!-- End -->
+
+<!-- 060 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Doripenem (Doribax)</h1>
+  <li>Not approved to treat any type of pneumonia</li>
+<li>Pregnancy risk B</li>
+<li>Excreted in urine; feces (<1%)</li>
+<li>Use: complicated intra-abdominal and urinary tract infections (including pyelonephritis) caused by susceptible aerobic gram-positive, aerobic gram-negative (including Pseudamonas aeruginosa), and anaerobic bacteria.</li>                                                                                                                                                                                       
+<li>Typical dose: IV 500mg q8h for 5-14 days</li>
+</div>
+<!-- End -->
+
+<!-- 061 This is a new slide -->
+<div class="Question"><!-- Picture, Test, Question-->
+  <h1>Which carbapenem(s) do(es) not cover Pseudamonas aeruginosa?</h1>
+  <ul>
+    <li>Imipenem</li>
+<li>Doripenem</li>
+<li><b>Ertapenem</b></li>
+<li>Meropenem</li>
+  </ul>
+</div>
+<!-- End -->
+
+<!-- 062 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>What is Cilastatin?</h1>
+  <ul><li>Beta-lactamase inhibitor</li>
+<li>PABA analog</li>
+<li><b>Dihydropeptidase inhibitor</b></li>
+<li>Calcium channel blocker</li>
+    </ul>
+  </div>
+<!-- End -->
+
+<!-- 063 This is a new slide -->
+<div class="Question"><!-- Picture, Test, Question-->
+  <h1>Which carbapenem can be dosed once a day?</h1>
+  <ul>
+    <li>A. Imipenem</li>
+<li>Meropenem</li>
+<li>Doripenem</li>
+<li><b>Ertapenem</b></li>
+  </ul>
+</div>
+<!-- End -->
+
+<!-- 064 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Monobactams</h1>
+  <li>Used for gram-negative aerobic bacteria</li>
+<li>Monocyclic beta-lactam</li>
+<li>Only commercially available drug in this class is Aztreonam</li>
+<li>Binds only to the transpeptidase of gram-negative bacteria</li>
+<li>Kills tough, hospital-acquired multi-drug resistant bacteria including Pseudamonas aeruginosa</li>
+<li>Can be used in penicillin allergic patients</li>
+<li>Often used in combination (vancomycin + aztreonam, clindamycin + aztreonam)</li>
+</div>
+<!-- End -->
+
+<!-- 065 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Aztreonam (Azactam, Cayston [inhaled])</h1>
+    <li>Pregnancy risk B</li>
+<li>Excretion: Injection: Urine; feces (~13% to 15%)</li>
+<li>Use: lower respiratory tract, intra-abdominal, gynecological, skin/skin-structure, and urinary tract infections caused by gram-negative bacilli; inhalation – to improve respiratory symptoms in cystic fibrosis patients with P. aeruginosa</li>
+<li>Typical dose: IV 1-2g q8h, available in IM and oral inhalation</li>
+</div>
+<!-- End -->
+
+<!-- 066 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>What kind of antibiotic is Aztreonam and what does it cover?</h1>
+  <ul><li>Broad spectrum antibiotic – gram-positive, gram-negative, anaerobes</li>
+<li>Extended spectrum antibiotic – gram-positive and gram-negative rods</li>
+<li>Narrow spectrum antibiotic – gram-positive aerobes only</li>
+<li><b>Narrow spectrum antibiotic – gram-negative aerobic bacteria only</b></li>
+</ul>
+</div>
+<!-- End -->
+
+<!-- 067 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Fluoroquinolones</h1>
+    <li>Good oral absorption, and penetrate well into tissues</li>
+<li>Enterohepatic circulation – high concentration in stool and renal excretion (high urinary levels)</li>
+<li>Work by inhibiting DNA gyrase. DNA gyrase is needed to maintain the superhelical structure of DNA and is required for replication and transcription. Fluoroquinolones inhibit supercoiling; disrupting DNA repair, recombination and transposition - leading to breaks in the bacterial DNA structure.</li>
+<li>Bactericidal</li>
+<li>Resistance is caused by a mutation in the bacterial DNA gyrase subunits, and once resistance develops, the organism will likely be resistant to all fluoroquinolones</li>
+<li>Adverse effects: </li>
+<ul><li>GI irritability (nausea, vomiting, abdominal pain, diarrhea)</li>
+<li>Cartilage damage in animals </li>
+<li>Achilles tendonitis, increased risk of rupture<li>
+<li>CNS: headache, insomnia, restlessness</li>
+  </ul>
+</div>
+<!-- End -->
+
+<!-- 068 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Fluoroquinolones</h1>
+  <li>Covers gram-negative bacteria well</li>
+<li>Fluoroquinolones are associated with an increased risk of tendinitis and tendon rupture in all ages (especially in patients >60, patients on corticosteroids, or immunosuppressive therapy).</li>
+<li>Fluoroquinolones may also exacerbate muscle weakness in persons with myastenia gravis.</li>
+<li>Fluoroquinolones may prolong QTc interval and have been associated with development of hypoglycemia</li>
+<li>Therapeutic uses:</li>
+<ul><li>Hospital acquired infections: Pseudamonas aeruginosa or other gram negatives</li>
+<li>Diarrhea caused by enterics (Salmonella, Shigella, Campylobacter, E. Coli)</li>
+<li>UTIs </li>
+<li>Chronic bone infections (osteomyelitis) covers Pseudamonas, Staphylococcus aureus or Enterobacteriaceae</li>
+<li>Gram negative facultative intracellular organisms including Legionella, Brucella, Salmonella, and atypical Mycobacteria</li>
+</ul>
+</div>
+<!-- End -->
+
+<!-- 069 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Fluoroquinolones</h1>
+ <li> First generation: Nalidixic acid</li>
+<li>Second generation:</li> 
+<ul><li>Norfloxacin,</li> 
+<li>Ciprofloxacin, </li>
+<li>Enoxacin, </li>
+<li>Lomefloxacin,</li> 
+<li>Ofloxacin,</li> 
+<li>Levofloxacin</li></ul>
+<li>Third generation:</li> 
+<ul><li>Sparfloxacin (photosensitivity and QT prolongation), </li>
+<li>Gatifloxacin, </li>
+<li>Grepafloxacin (cardiovascular events, QT prolongation)</li></ul>
+<li>Fourth Generation: </li>
+<ul></li>Trovafloxacin (liver toxicity), </li>
+<li>Moxifloxacin, </li>
+<li>Gemifloxacin</li></ul>
+</div>
+<!-- End -->
+
+<!-- 070 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Naldixinic acid</h1>
+  <li>Available in various countries, not currently available in US</li>
+<li>Use: Urinary tract infections</li>
+<li>Typical dose: </li>
+<li>Children 3mo-12y: Oral 55mg/kg/day divided q6h; suppressive therapy 30 mg/kg/day q 6h</li>
+<li>Adults: Oral 1g 4x daily; suppressive therapy 500 mg 4x daily</li>
+</div>
+<!-- End -->
+
+<!-- 071 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Norfloxacin (Noroxin)</h1>
+    <li>Pregnancy risk C</li>
+<li>Hepatic metabolism; excreted in urine; feces (39%)</li>
+<li>Use: Uncomplicated and complicated urinary tract infections caused by susceptible gram-positive and gram-negative organisms, prostatitis caused by E. coli</li>
+<li>Typical dose: Oral 400mg q12h</li>
+</div>
+<!-- End -->
+
+<!-- 072 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Ciprofloxacin (Cipro)</h1>
+  <li>Pregnancy risk C</li>
+<li>Partial hepatic metabolism (forms 4 metabolites with limited activity); excreted in urine and feces</li>
+<li>Use: prophylaxis following exposure to Bacillus anthracis; lower respiratory infections, acute sinusitis, bone/joint, skin/skin-structure, & urinary tract infections; complicated intra-abdominal infections (combination with metronidazole); infectious diarrhea; typhoid fever due to Salmonella typhi, nosocomial pneumonia</li>
+<li>Typical dose: Oral, IV 400-750mg q8-12h</li>
+</div>
+<!-- End -->
+
+<!-- 073 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Lomefloxacin </h1>
+    <li>Not currently available in US</li>
+<li>Use: acute bacterial exacerbation of chronic bronchitis caused by susceptible gram-negative organisms; urinary tract infections (complicated and uncomplicated); surgical prophylaxis (transrectal/transurethral procedures)</li>
+<li>Typical dose: Oral 400mg once daily</li>
+</div>
+<!-- End -->
+
+<!-- 074 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Ofloxacin (Apo-Oflox; Novo-Ofloxacin)</h1>
+  <li>Pregnancy risk C</li>
+<li>Excreted in urine primarily</li>
+<li>Use: acute exacerbations of chronic bronchitis, community-acquired pneumonia, skin/skin-structure infections, uncomplicated cystitis & urinary tract infections </li>
+<li>Typical dose: Oral 200-400mg q12h</li>
+<ul><li>Ophthalmic solution Ocuflox</li>
+<li>Also available in otic solution Floxin</li></ul>
+</div>
+<!-- End -->
+
+<!-- 075 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Levofloxacin (Levaquin)</h1>
+    <li>~99% bioavailable, rapid/complete oral absorption</li>
+<li>Minimal hepatic metabolism; excreted in urine, feces (<4%)</li>
+<li>Pregnancy risk C</li>
+<li>Use: treatment of community acquired pneumonia (included multi-drug resistant S. pneumoniae), nosocomial pneumonia, chronic bronchitis, acute bacterial sinusitis, prostatitis, complicated/uncomplicated urinary tract infections, post-exposure prophylaxis for inhalational anthrax, prophylaxis and treatment of bubonic plague (Y. pestis), Legionnaire’s disease</li>
+<li>Unlabeled use: can be used to treat drug-resistant tuberculosis or if patient is intolerant to first-line drugs; do not give if patient has a lung lesion and is being worked-up for tuberculosis (may contribute to development of resistant TB)</li>
+<li>Typical dose: Oral, IV 500-750mg q24h</li>
+</div>
+<!-- End -->
+
+<!-- 076 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Sparfloxacin</h1>
+  <li>Not currently available in US</li>
+<li>Use: treatment of community-acquired pneumonia and acute bacterial exacerbations of chronic bronchitis</li>
+<li>Typical dose: Oral 200 mg q24h</li>
+</div>
+<!-- End -->
+
+<!-- 077 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Gatifloxacin (Zymaxid)</h1>
+    <li>For topical use only; do not wear contacts during treatment</li>
+<li>Pregnancy risk C</li>
+<li>Use: bacterial conjunctivitis</li>
+<li>Typical dose: Ophthalmic  drops – 1 drop q2-4h daily</li>
+</div>
+<!-- End -->
+
+
+<!-- 078 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Moxifloxacin (Avelox)</h1>
+  <li>Pregnancy risk C</li>
+<li>Metabolized by liver conjugation; excreted in urine and feces</li>
+<li>Use: mild-moderate community-acquired pneumonia, including multi-drug resistant S. pneumoniae; acute bacterial exacerbation of chronic bronchitis, acute bacterial rhinosinusitis, complicated intra-abdominal infections, complicated/uncomplicated skin/skin-structure infections</li>
+<li>Unlabeled use: Legionella pneumonia, tuberculosis (2nd line); surgical prophylaxis</li>
+<li>Typical dose: IV 400mg q24h, also available orally</li>
+</div>
+<!-- End -->
+
+<!-- 079 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Gemifloxacin (Factive)</h1>
+    <li>Pregnancy risk C</li>
+<li>Excreted in feces (61%), urine (36%)</li>
+<li>Use: treatment of acute exacerbation of chronic bronchitis, community-acquired pneumonia (including multi-drug resistant S. pneumoniae)</li>
+<li>Typical dose: Oral 320mg q24h</li>
+</div>
+<!-- End -->
+
+<!-- 080 This is a new slide -->
+<div class="Question"><!-- Picture, Test, Question-->
+  <h1>What is the mechanism of action of fluoroquinolones?</h1>
+  <ul><li>inhibition of peptidoglycan linkages by binding transpeptidase</li>
+<li>Protein synthesis inhibition by binding 50s ribosomal subunit</li>
+<li>Competitive inhibition of synthesis of tetrahydrofolate</li>
+<li><b>DNA gyrase inhibition</b></li>
+<li>Formation of free radicals leading to DNA destruction</li></ul>
+</div>
+<!-- End -->
+
+<!-- 081 This is a new slide -->
+<div class="Question"><!-- Picture, Test, Question-->
+  <h1>What is the best method of administration of Levofloxacin?</h1>
+  <ul>
+    <li>Oral</li>
+<li>Intramuscular injection</li>
+<li>Intravenous</li>
+<li><b>Both oral and intravenous have near equivalent bioavailabilty</b></li>
+  </ul>
+</div>
+<!-- End -->
+
+
+<!-- 082 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Macrolides</h1>
+  <li>Mechanism: the macrolide antibiotics bind to the 50s subunit of bacterial ribosomes, inhibiting transpeptidation, translocation, chain elongation, effectively disrupting bacterial protein synthesis.</li>
+<li>Two main mechanisms of macrolide resistance include:</li>
+<ul><li>Methlylases alter the macrolide binding site on the bacterial ribosomal RNA (this mechanism usually also causes clindamycin resistance)</li>
+<li>Active macrolide efflux pumps</li></ul>
+<li>Gram-positive organisms absorb erythromycin better than most gram-negative organisms</li>
+<li>It covers gram-positive bacteria, Mycoplasma, and the gram-negatives, Legionella and Chlamydia (atypicals)</li>
+<li>Drug of choice for community acquired pneumonia, used as alternative to penicillin for streptococcal and staphylococcal organisms (strep throat and cellulitis)</li>
+<li>Macrolides (especially erythromycin) have been associated with rare QTc prolongation and ventricular arrhythmias</li>
+<li>Drugs in this class include: 
+<ul><li>Erythromycin,</li>
+<li>Clarithomycin,</li>
+<li>Azithromycin,</li>
+<li>Roxithromycin,</li>
+<li>Telithromycin</li></ul>
+</div>
+<!-- End -->
+
+<!-- 083 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Erythromycin (Erythrocin)</h1>
+    <li>EtOH may decrease absorption of erythromycin</li>
+<li>Causes dose-dependent abdominal pain (GI irritation) from stimulation of intestinal peristalsis, rare cholestatic hepatitis</li>
+<li>Pregnancy risk B</li>
+<li>Hepatic metabolism by demethylation by CYP3A4; excreted primarily feces; urine (2-15%)</li>
+<li>Use: susceptible bacterial infections including S. pyogenes, some S. pneumoniae, some S. aureus, M. pneumoniae, Legionella pneumophilia, diptheria, pertussis, Chlamydia, erythrasma, N. gonorrhoeae, E. histolytica, syphillis, urethritis, Campylobacter gastritis; used with neomycin to decontaminate the bowel</li>
+<li>Unlabeled use: management of gastroparesis (increases gastric motility); treatment of Bartonella spp. infections</li>
+<li>Typical dose: Oral 250-500mg q6-12h, max 4g/day; IV available</li>
+</div>
+<!-- End -->
+
+<!-- 084 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Azithromycin (Zithromax, Z-Pak)</h1>
+  <li>Pregnancy risk B</li>
+<li>Hepatic metabolism; excreted primarily through the biliary system, urine (6%)</li>
+<li>Azithromyicin can be used as alternative to doxycycline for the treatment of chlamydial urethritis </li>
+<li>Use: otitis media, community-acquired pneumonia (includes atypical coverage of Chlamydia pneumonia, Mycoplasma pneumoniae), PID (C. trachomatis, N. gonorrhoeae), genital ulcer disease (H. ducreyi), acute bacterial exacerbations of COPD, acute bacterial sinusitis; prevention of mycobacterium avium complex (in combination with ethambutol) in HIV patients, skin/skin-structure infections</li>
+<li>Typical dose: Oral 250-1000mg q24h, available IV</li>
+</div>
+<!-- End -->
+
+<!-- 085 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Clarithromycin (Biaxin)</h1>
+    <li>Pregnancy risk C</li>
+<li>Partial hepatic metabolism by CYP3A4; excreted in urine and feces</li>
+<li>Use: pharyngitis/tonsillitis, acute maxillary sinusitis, exacerbation of chronic bronchitis, community-acquired pneumonia, uncomplicated skin/skin-structure infections, disseminated mycobacterial infections du to M. avium/M. intracellulare, prophylaxis of mycobacterial infections in advanced HIV</li>
+<li>Unlabeled use: Lyme disease, pertussis</li>
+<li>Typical dose range: Oral 250-1000mg q12-24h</li>
+</div>
+<!-- End -->
+
+<!-- 086 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Roxithromycin</h1>
+  <li>Available outside of the United States</li>
+<li>Use: mild to moderately severe bacterial infections caused by susceptible organisms</li>
+<li>Typical dose: Oral (Adult) 300mg/day in one or two divided doses</li>
+</div>
+<!-- End -->
+
+<!-- 087 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Telithromycin (Ketek)</h1>
+    <li>Contraindicated in patients with myasthenia – reports of life-threatening respiratory failure!</li>
+<li>Pregnancy risk C</li>
+<li>Hepatic metabolism via CYP3A4 and non-CYP pathways; excreted in urine and feces.</li>
+<li>Use: community-acquired pneumonia (mild-moderate) caused by S. pneumoniae (including multi-drug resistant strains), H. influenzae, M. catarrhalis, Chlamydophila pneumoniae, or Mycoplasma pneumoniae in patients >18years</li>
+<li>Typical dose: Oral 800mg q24h</li>
+</div>
+<!-- End -->
+
+<!-- 088 This is a new slide -->
+<div class="Question"><!-- Picture, Test, Question-->
+  <h1>Which macrolide can be used as a treatment for gastroparesis?</h1>
+  <ul><li>Telithromycin</li>
+<li>Azithromycin</li>
+<li>Clarithromycin</li>
+<li><b>Erythromycin</b></li></ul>
+</div>
+<!-- End -->
+
+<!-- 089 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Aminoglycosides</h1>
+    <li>Mechanism: Binds to the aminoacyl site of 16S ribosomal RNA within the 30S ribosomal subunit, leading to misreading of genetic code and inhibition of translocation ; inhibits protein synthesis</li>
+<li>Usually bacteriocidal</li>
+<li>Need to diffuse across the cell wall, thus often used with penicillin which breaks down the wall</li>
+<li>Microbiologic activity is pH dependent – reduced at low pH found in lung and bronchial excretions</li>
+<li>Anaerobic bacteria are intrinsically resistant to aminoglycosides</li>
+<li>Aminoglycosides are most commonly used against serious infections caused by aerobic gram-negative enteric organisms M/li>
+<li>Agents in this class include:</li>
+<ul><li>Streptomycin is the oldest one in the family </li>
+<li>Gentamicin is the most commonly used</li>
+<li>Tobramycin is also effective against Pseudamonas aeruginosa</li>
+<li>Amikacin has the broadest spectrum</li>
+<li>Neomycin – has very broad coverage but is too toxic so it is only used topically for skin infections</li>
+<li>Netilmicin</li>
+<li>Paromomycin</li></ul>
+</div>
+<!-- End -->
+
+<!-- 090 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Aminoglycoside</h1>
+  <li>Not active alone against streptococci and enterococci</li>
+<li>There are a few indications for monotherapy with systemic aminoglycosides:</li>
+<ul><li>Tularemia – streptomycin/gentamicin are first-line</li>
+<li>Plague – again streptomycin/gentamicin</li>
+<li>UTI due to multi-drug resistant gram-negative organisms</li></ul>
+<li>Adverse effects:</li>
+<ul><li>Ototoxicity, irreversible hearing loss</li>
+<li>Renal toxicity</li>
+<li>Very rare side effect of complete neuromuscular blockade</li></ul>
+</div>
+<!-- End -->
+
+<!-- 091 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Streptomycin</h1>
+    <li>Streptomycin is particularly active against M. tuberculosis</li>
+<li>IM administration; IV not recommended</li>
+<li>Pregnancy risk D (hearing impairment/deafness)</li>
+<li>Excreted in urine, feces, saliva, sweat, and tears</li>
+<li>Use: in combination therapy for active tuberculosis; in combination with other agents for bacteremia (gram-negative bacilli, brucellosis, chanchroid, plague, streptococcal/enterococcal endocarditis, tularemia), urinary tract infections caused by A. aerogenes, E. coli, K. pneumoniae, Proteus spp.</li>
+<li>Unlabled use: Meniere’s disease, Mycobacterium avium complex</li>
+<li>Typical dose: IM 1g q12-24h</li>
+<li>Adverse effects:</li>
+<ul><li>Ototoxic</li>
+<li>Nephrotoxic</li>
+<li>Avoid in pregnant women</li></ul>
+</div>
+<!-- End -->
+
+<!-- 092 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Gentamicin</h1>
+  <li>Low therapeutic index; monitor levels</li>
+<li>Therapeutic levels (peak/trough):</li>
+<ul><li>Life threatening: 8-10mcg/mL/1-2mcg/mL</li>
+<li>Serious infections: 6-8mcg/mL/0.5-1mcg/mL</li>
+<li>Urinary tract infections: 4-6mcg/mL</li></ul>
+<li>Obtain drug levels after third dose usually</li>
+<li>Pregnancy risk D</li>
+<li>Excreted unchanged in urine</li>
+<li>Use: susceptible bacterial infections (gram-negative organisms including Pseudamonas, Proteus, Serratia, and gram-positive Staphylococcus; respiratory, bone, abdominal, skin/skin-structure, & urinary tract infections; septicemia, infective endocarditis</li>
+<li>Typical dosage: IM, IV 1-2.5mg/kg/dose q8-12h</li>
+</div>
+<!-- End -->
+
+<!-- 093 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Tobramycin (Bethkis, Tobi, Tobi Podhaler)</h1>
+    <li>Low therapeutic index; monitor levels</li>
+<li>Therapeutic ranges (peak/trough)</li>
+<ul><li>Life threatening: 8-10mcg/mL/ 1-2mcg/mL</li>
+<li>Serious infections: 6-8mcg/mL/ 0.5-1mcg/mL</li>
+<li>Urinary tract infections: 4-6mcg/mL</li></ul>
+<li>Obtain levels after third dose usually</li>
+<li>Pregnancy risk D</li>
+<li>Excreted in urine</li>
+<li>Use: treatment of infection caused by susceptible gram-negative bacilli including Pseudamonas aeruginosa; inhaled forms indicated for cystic fibrosis patients with Pseudamonas aeruginosa</li>
+<li>Typical dose: IM, IV 1-2.5mg/kg/dose q8-12h; inhaled form available</li>
+</div>
+<!-- End -->
+
+<!-- 094 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Amikacin (Amikin)</h1>
+  <li>Low therapeutic index, determine initial and periodic peak/trough plasma drug levels</li>
+<li>Therapeutic levels:</li>
+<ul><li>Life threatening infections – 25-40mcg/mL</li>
+<li>Serious infections – 20-25mcg/mL</li>
+<li>UTI – 15-20 mcg/mL</li>
+<li>Trough <8mcg/ML</li></ul>
+<li>Toxic concentration – peak >40mcg; trough >10mcg</li>
+<li>Pregnancy risk D</li>
+<li>Excreted in urine</li>
+<li>Use: severe infections (bone& respiratory), endocarditis, septicemia caused by organism resistant to gentamicin and tobramycin, including Pseudamonas, Proteus, Serratia, and other gram-negative bacilli, documented infection with mycobacterial organisms susceptible to amikacin</li>
+<li>Typical dose range: IM, IV 5-7.5mg/kg/dose q 8h; can be administered intrathecal/intraventricularly</li>
+</div>
+<!-- End -->
+
+<!-- 095 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Paromomycin (Humatin)</h1>
+    <li>Oral, poorly absorbed aminoglycoside used mainly for intra-intestinal amebic infection</li>
+<li>Acts directly on ameba; interferes with bacterial protein synthesis by binding 30s ribosomal subunit</li>
+<li>Excreted in feces</li>
+<li>Use: intestinal amebiasis, hepatic coma</li>
+<li>Unlabeled use: treatment of cryptosporidosis, dientamoeba fragilis</li>
+<li>Limited information on its use in pregnancy, may consider for treatment of giardiasis or cryptosporidosis after first trimester</li>
+<li>Typical dose: Oral25-35mg/kg/day in 3 divided doses daily
+</div>
+<!-- End -->
+
+<!-- 096 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Neomycin (Neo-Fradin)</h1>
+  <li>97% of orally administered dose remains in the GI tract; absorbed neomycin accumulates in the renal cortex</li>
+<li>Pregnancy risk D</li>
+<li>Some hepatic metabolism; excreted in feces primarily</li>
+<li>Use: surgical (perioperative) prophylaxis for GI surgery; diarrhea caused by E. coli, adjunctive treatment of hepatic encephalopathy</li>
+<li>Typical dose range: Oral 500mg-4g q6-24h</li>
+<li>Toxicities: Neurotoxicity, nephrotoxicity, ototoxicity; possible neuromuscular blockade and respiratory paralysis (requiring calcium salts administration); should avoid administering with other nephrotoxic drugs</li>
+</div>
+<!-- End -->
+
+<!-- 097 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Spectinomycin</h1>
+    <li>No longer available in US</li>
+<li>Also an aminoglycoside; acts on the 30S ribosome to inhibit protein synthesis</li>
+<li>Excreted in urine unmetabolized</li>
+<li>Given as an IM injection 2g</li>
+<li>Was used to treat gonorrhea, as an alternative to penicillin and tetracycline</li>
+</div>
+<!-- End -->
+
+<!-- 098 This is a new slide -->
+<div class="Matching"><!-- Picture, Test, Question-->Help!
+  <h1>Match the aminoglycoside with the particular condition it can be used to treat:</h1>
+  <ul><li>Streptomycin</li>
+<li>Gentamicin</li>
+<li>Tobramycin </li>
+<li>Amikacin</li>
+<li>Paromomycin</li>
+
+<li>1. Tuberculosis</li>
+<li>2. Hepatic encephalopathy</li>
+<li>3. Intestinal amebiasis</li>
+<li>4. Pseudamonas aeruginosa in patient with cystic fibrosis</li>
+</ul>
+</div>
+<!-- End -->
+
+<!-- 099 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Tetracyclines</h1>
+    <li>Tetracyclines enter through passive diffusion and through and energy-dependent transport system which may be pH dependent. Once inside, they reversibly bind to 30S ribosomal subunit at a site that blocks the binding of the aminoacyl-tRNA to the acceptor site, and inhibits protein synthesis</li>
+<li>Bacteriostatic</li>
+<li>Resistance to tetracyclines can be due to efflux pumps which decrease the intracellular concentration or ribosomal protection proteins which enable protein synthesis even in the presence of high intracellular levels of drug. </li>
+<li>Tetracyclines  chelate with cations in milk and milk products, aluminum hydroxide, Ca+ and Mg+; when chelated, it will pass through without being absorbed. 
+<li>Combinations of tetracylines and penicilins are not recommended and may diminish the bacteriocidal activity of penicillins.</li>
+</div>
+<!-- End -->
+
+<!-- 100 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Tetracyclines</h1>
+  <li>Tetracycline<li>
+<li>Minocycline, </li>
+<li>Demeclocycline, </li>
+<li>Doxycycline,</li>
+<li>Oxytetracycline (not available in US)</li>
+<li>Adverse effects: </li>
+<ul><li>GI irritation – nausea, vomiting, and diarrhea,</li> 
+<li>phototoxic dermatitis, </li>
+<li>renal and hepatic toxicity (more with tetracycline and minocycline), </li>
+<li>discolored teeth (chelates to calcium in the teeth and bones of babies and children = brown teeth and stunted growth)</li></ul>
+</div>
+<!-- End -->
+
+<!-- 101 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Tetracycline</h1>
+    <li>Should be given on a empty stomach to increase absorption</li>
+<li>Pregnancy risk D (accumulate in developing teeth and long tubular bones, hepatic toxicity during pregnancy possible.)</li>
+<li>Excreted in urine and feces.</li>
+<li>Use: susceptible bacterial infections of gram-positive and gram-negative infections, as well as Chlamydia, Mycoplasma, Rickettsia; indicated for acne, exacerbations of chronic bronchitis, gonorrhea and syphilis in patients with allergies to penicillin, also used in H. pylori eradication</li>
+<li>Unlabeled: treatment for malaria</li>
+<li>Typical dose: Oral 250-500mg q6h</li>
+</div>
+<!-- End -->
+
+<!-- 102 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Minocycline (Minocin, Solodyn)</h1>
+  <li>Pregnancy risk D</li>
+<li>Use: treatment of susceptible bacterial infections of both gram-positive and gram-negative organisms; treatment of anthrax (inhalational, cutaneous, gastrointestinal); moderate to severe acne; meningococcal carrier state, Rickettsial disease, gonorrhea, chlamydial infections; acute intestinal amebiasis, respiratory tract and skin/soft tissue infections</li>
+<li>Off-label use in treatment of rheumatoid arthritis- thought to have antimicrobial, antiinflammatory, immunomodulatory and chondroprotective effects.</li>
+<li>Typical dose range: Oral, IV 100 mg q12h</li>
+<li>Can cause a lupus-like syndrome</li>
+</div>
+<!-- End -->
+
+<!-- 103 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Doxycycline (Acticlate, Adoxa, Avidoxy, Doryx, Doxy 100, Monodox, Ocudox, Vibramycin, Oracea)</h1>
+    <li>Oral administration is preferred; IV/Oral are bioequivalent</li>
+<li>Doxycycline chelates poorly and better absorbed with food</li>
+<li>Most active tetracycline</li>
+<li>Administered twice daily, IV, PO formulation; less likely to cause photosensitivity</li>
+<li>Pregnancy risk D</li>
+<li>Excreted in feces, and urine</li>
+<li>Use: Mainly used for infections caused by susceptible Rickettsia, Chlamydia, Chlamydophila, Mycoplasma; malaria prophylaxis; treatment for syphilis, uncomplicated N. gonorrhoeae, Listeria, Actinomyces israelii, and Clostridium infections; community-acquired pneumonia; anthrax; Other infections caused by uncommon susceptible organisms (e.g. Borrelia recurrentis, Ureaplasma urealyticum, Haemophilus ducreyi, Yersinia pestis, Francisella tularensis, Vibrio cholerae, etc.) Q fever, intestinal amebiasis, severe acne</li>
+<li>Unlabeled use: sclerosing agent for pleural effusion, VRE, alternate for MRSA</li>
+<li>Typical dose range: Oral, IV 100-200mg/day q12-24h</li>
+</div>
+<!-- End -->
+
+<!-- 104 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Demeclocycline</h1>
+  <li>Administer 1-2h before food or milk, and with adequate fluid to decrease risk of esophageal irritation</li>
+<li>Pregnancy risk D</li>
+<li>Excreted in urine and feces</li>
+<li>Use: treatment of susceptible infections (e.g., acne, respiratory tract and urinary tract infections)</li>
+<li>Unlabeled: symptom of inappropriate secretion of antidiuretic hormone</li>
+<li>Typical dose: Oral 150mg 4 times/day</li>
+<li>Can cause a nephrogenic diabetes insipidus; used to therapeutically treat SIADH. Dose: Oral 600-1200mg/day</li>
+</div>
+<!-- End -->
+
+<!-- 105 This is a new slide -->
+<div class="Question"><!-- Picture, Test, Question-->
+  <h1>Which of the following tetracyclines can be used to treat MRSA?</h1>
+  <ul>
+    <li>Tetracycline</li>
+    <li>Minocycline</li>
+    <li><b>Doxycycline</b></li>
+    <li>Demeclocycline</li>
+  </ul>
+</div>
+<!-- End -->
+
+<!-- 106 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Tigecycline (Tygacil)</h1>
+  <li>A tetracycline derivative, glycylcycline</li>
+<li>Binds to the 30s ribosomal subunit in susceptible bacteria, inhibits protein synthesis; bacteriostatic</li>
+<li>Broader spectrum than tetracyclines. Has in vitro activity against most staphylococci and streptococci (including MRSA and VRE), anaerobes, and many gram-negative organisms</li>
+<li>No activity against Pseudamonas and Proteus</li>
+<li>Increase in all-cause mortality observed in meta-analysis of phase 3 and 4 clinical trials; reserve for use in situations when alternative treatment is not appropriate.</li>
+<li>FDA approved for skin/skin structure infections and intra-abdominal infections</li>
+<li>Pregnancy risk D</li>
+<li>Excreted in feces and urine</li>
+<li>Use: Community-acquired bacterial pneumonia (S. pneumoniae, H. influenzae, Legionella pneumophila); complicated intra-abdominal infections in patients with contraindications to both beta-lactams and fluoroquinolones, management of infections with multidrug resistant gram-negative organism including Acinetobacter; complicated skin/skin-structure infections (E. coli, S. aureus, strepcococci, B. fragillis, etc.)</li>
+<li>Dose: 100 mg IV once, then 50 mg IV q12h</li>
+</div>
+<!-- End -->
+
+<!-- 107 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Chloramphenicol</h1>
+    <li>Chloramphenicol –  Binds to 50S ribosomal subunit, inhibits protein synthesis, kills most clinically important bacteria (Gram negative, gram positive, and even anaerobic coverage)</li>
+<li>Metabolized  and completely inactivated in the liver; metabolites excreted in urine</li>
+<li>Use: treatment of serious infections with organisms (e.g. Bacteroides, H. influenzae, N. meningitidis, Salmonella, and Rickettsia, VRE) resistant to other less toxic antibiotics, or when there is inadequate penetration to site of infection;  bacterial meningitis (unknown bug, allergies to penicillins and cephalosporins), in young children and pregnant patients who can’t take tetracycline, for Rocky Mountain Spotted Fever, still widely used  in developing countries</li>
+<li>Typical dose: IV 50-100mg/kg/day in divided doses q6h; max daily 4g</li>
+<li>Can cause serious/fatal blood dyscrasias (aplastic anemia, hypoplastic anemia, thrombocytopenia, granulocytopenia)</li>
+<li>Gray baby syndrome: (unable to conjugate in liver and excrete through kidneys), high blood levels are toxic – vasomotor collapse (shock), abdominal distention, cyanosis</li>
+</div>
+<!-- End -->
+
+<!-- 108 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Clindamycin (Cleocin)</h1>
+  <li>Binds to 50S ribosomal subunit, and inhibits protein synthesis</li>
+<li>Inhibits many gram-positive bugs and anaerobes</li>
+<li>Pregnancy risk B</li>
+<li>Excreted in urine and feces</li>
+<li>Use: treatment of susceptible organisms; lower respiratory tract infections (pneumonia, empyema, abscess), intra-abdominal infections, gynecological (endometritis, post-surgical infections), bone/joint infections, and skin/skin-structure infections.</li>
+<li>Surgeons use clindamycin + aminoglycoside for penetrating wounds of the abdomen</li>
+<li>Unlabeled use: alternative for toxoplasmosis, MRSA</li>
+<li>Typical dose: Oral 150-450mg q6h; (max 1800mg/day)</li>
+<ul><li>IM, IV  1.2-2.7g/day in 2-4 divided doses (max 4800mg/day)</li></ul>
+<li>Can cause C. diff colitis (although many antibiotics can, this carries a boxed warning)</li>
+</div>
+<!-- End -->
+
+<!-- 109 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Linezolid (Zyvox)</h1>
+  <li>An oxazolidinone; binds to bacterial 23s ribosomal RNA on the 50S ribosomal unit, preventing formation of 70s initiation complex; inhibits protein synthesis; bacteriostatic</li>
+<li>Has activity against gram-positive organisms (including MRSA and VRE)</li>
+<li>No gram negative activity</li>
+<li>Pregnancy risk C</li>
+<li>Metabolized partially in the liver; metabolites and unchanged drug is excreted in urine</li>
+<li>Use: vancomycin-intermediate/resistant Staphylococcus aureus (VISA/VRSA), documented MRSA failing vancomycin therapy, documented VRE infection, nosocomial pneumonia by S. aureus/S. pneumoniae (including multidrug resistant strains), complicated skin/skin-structure infections</li>
+<li>Unlabeled use: brain abscess, subdural empyema, spinal epidural abscess</li>
+<li>Available IV and PO, 100% bioequivalent</li>
+<li>Typical dose: Oral, IV 600mg q12h</li>
+</div>
+<!-- End -->
+
+<!-- 110 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Linezolid</h1>
+    <li>Toxicity:</li>
+<ul><li>Bone marrow suppression (within first 2 weeks of therapy)</li>
+<li>Optic neuritis</li>
+<li>Irreversible sensory motor polyneuropathy</li>
+<li>Case reports of lactic acidosis and serotonin syndrome when administered with SSRIs, TCAs, MAOIs</li></ul>
+</div>
+<!-- End -->
+
+<!-- 111 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Quinupristin-dalfopristin (Synercid)</h1>
+  <li>Streptogramin – inhibits bacterial protein synthesis by binding to different sites on the 50s ribosomal subunit</li>
+<li>Pregnancy risk B</li>
+<li>Excreted in feces (~75%) and urine.</li>
+<li>Use: complicated skin/skin-structure infections caused by MSSA or Streptococcus pyogenes</li>
+<li>Off-label: MRSA bacteremia</li>
+<li>Typical dose: IV 7.5mg/kg q12h for at least 7 days</li>
+<li>Adverse effects: arthralgias/myalgias, hyperbilirubinemia, phlebitis</li>
+</div>
+<!-- End -->
+
+<!-- 112 This is a new slide -->
+<div class="Question"><!-- Picture, Test, Question-->
+  <h1>Which of the following protein synthesis inhibitors do not work by binding the 50s subunit of the bacterial ribosome?</h1>
+  <ul>
+    <li>Clindamycin<li>
+<li><b>Tigecycline</b></li>
+<li>Quinupristin-dalfopristin</li>
+<li>Linezolid</li>
+<li>Chloramphenicol</li>
+  </ul>
+</div>
+<!-- End -->
+
+<!-- 113 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Mupirocin (Bactroban)</h1>
+  <li>Binds to bacterial isoleucyl transfer-RNA synthetase and works to inhibit protein synthesis</li>
+<li>Topical cream/ointment</li>
+<li>Pregnancy risk B</li>
+<li>Excreted in urine</li>
+<li>Use: for treatment of topical infections, intranasal eradication of MRSA (adults and healthcare workers); infected traumatic skin lesions up to 10 cm in length or 100sq cm due to S. aureus and S. pyogenes; impetigo</li>
+</div>
+<!-- End -->
+
+<!-- 114 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Fosfomycin (Monurol)</h1>
+    <li>A synthetic, broad-spectrum, bacteriocidal antibiotic; inhibits bacterial wall synthesis by inactivating an enzyme known as MurA (catalyzes the committed step in peptidoglycan synthesis) by acting as a competitive analog that alkylates the enzyme’s active site</li>
+<li>Has broad antibacterial activity against gram-positive and gram-negative organisms including E. coli, Klebsiella spp, Proteus spp, Pseudomonas spp, and VRE.</li>
+<li>No activity against Acinetobacter</li>
+<li>Pregnancy risk B</li>
+<li>Excreted in urine (high urinary levels persist for >48 h) and feces</li>
+<li>Consider use: uncomplicated UTIs in patients with multiple antibiotic allergies against susceptible E. coli and Enterococcus faecalis, uncomplicated UTI due to VRE</li>
+<li>Oral formulation only and its pharmacokinetics allow for one time dosing (i.e. 3g (1 satchet) po once)</li>
+<li>Toxicity: diarrhea, nausea, headache, dizziness, asthenia, dyspepsia</li>
+</div>
+<!-- End -->
+
+<!-- 115 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Vancomycin (Vancocin)</h1>
+  <li>Inhibits peptidoglycan production at a step earlier than penicillin. It complexes with D-alanine D-alanine to inhibit transpeptidation. It acts synergistically with aminoglycosides.</li>
+<li>Covers all gram-positive organisms including: MRSA, Enterococcus, and multi-drug resistant Staphylococcus epidermidis</li>
+<li>Use: treatment of infections caused by gram positive organisms; to treat pseudomembranous colitis caused by Clostridium difficile and enterocolitis caused by S. aureus</li>
+<li>Can treat gram positive organisms in patients allergic to both penicillins and cephalosporins</li>
+<li>Pregnancy risk C (IV), B (oral)</li>
+<li>Excretion: IV: Urine (80% to 90% as unchanged drug); Oral: Primarily feces</li>
+<li>Goal trough of 10-20 mcg/mL (toxic >80mcg/mL)</li>
+<li>Typical dose: IV 500-1000mg q6-12h, 15-20 mg/kg/dose; Oral 500-2000mg daily in divided doses q6h (not used for systemic infections due to poor absorption)</li>
+<li>Causes Red Man Syndrome – nonimmunologic release of histamine leading to erythematous rash of the torso and pruritus. Slow infusion with anti-histamine premedication can prevent this syndrome.</li>
+</div>
+<!-- End -->
+
+<!-- 116 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Daptomycin (Cubicin)</h1>
+    <li>Daptomycin, a lipopeptide antibiotic,  binds to components of the cell membrane of susceptible organisms and causes rapid depolarization, inhibiting intracellular synthesis of DNA, RNA, and protein.</li>
+<li>Daptomycin is bactericidal in a concentration-dependent manner</li>
+<li>Has activity against most strains of staphylococci (including MRSA) and streptococci (including VRE). </li>
+<li>No activity against gram-negative organisms.</li>
+<li>Not indicated in treatment of treatment of pneumonia - Ineffective for pulmonary parenchymal infections (inactivated by pulmonary surfactant!)</li>
+<li>Pregnancy risk B</li>
+<li>Excreted in urine, and feces (6%)</li>
+<li>Use: Complicated skin/skin-structure infections (susceptible strains of S. aureus, Streptococci, and Enterococcus faecalis [vancomycin susceptible strains]); S. aureus bloodstream infections; bacteremia/endocarditis in MRSA in patient allergic to vancomycin or failing vancomycin therapy, salvage for VRE infections other than pneumonia</li>
+<li>Typical dose: IV 4-10mg/kg q24h; Bacteremia/Endocarditis: 6-12mg/kg IV q24h</li>
+<li>Toxicity: Myopathy (CK >10x ULN w/o symptoms, or >5x ULN with symptoms); eosinophilic pneumonia; peripheral neuropathy</li>
+</div>
+<!-- End -->
+
+<!-- 117 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Bacitracin (BACiiM, in Neosporin)</h1>
+  <li>A polypeptide antibiotic; inhibits bacterial cell wall synthesis by preventing transfer of mucopeptides into the growing cell wall</li>
+<li>Widely distributed in all body organs and is demonstrable in ascitic and pleural fluids after IM injection</li>
+<li>Excreted in the urine</li>
+<li>Approved by the US FDA for use in chickens and turkeys</li>
+<li>Available as topical bacitracin zinc salt, in combination with other topical antibiotics (usually polymyxin B, and neomycin) as an ointment: Neosporin),</li>
+<li>Use: topical treatment of a variety of localized skin and eye infections, non-ointment form of ophthalmic solution is also available for eye infections</li>
+<li>IM – neprotoxicity, rarely used for infants with pneumonia/empyema with susceptible staphylococci</li>
+</div>
+<!-- End -->
+
+<!-- 118 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Polymixins</h1>
+    <li>Disrupt the structure of the bacterial cell membrane by interacting with its phospholipids, allowing for leakage of intracellular contents</li>
+<li>Polymyxin antibiotics are relatively neurotoxic and nephrotoxic, usually only used as a last resort. Typical uses are for infections caused by strains of multiple drug-resistant Pseudomonas aeruginosa or carbapenemase-producing Enterobacteriaceae.</li>
+<li>Polymyxins are not absorbed from the gastrointestinal tract, so is administered parenteral (IV) or by inhalation (unless treating an infection in the gastrointestinal tract).</li>
+<li>Available for topical use as a cream or drops to treat otitis externa</li>
+<li>Polymyxins have less effect on Gram-positive organisms, and are sometimes combined with other agents (e.g. trimethoprim) for broader coverage</li>
+<li>Drugs in this class include:</li>
+<ul><li>Polymixin B</li>
+<li>Colistin</li></ul>
+</div>
+<!-- End -->
+
+<!-- 119 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Polymixin B</h1>
+  <li>Safety in pregnancy not assessed</li>
+  <li>Minimal absorption from GI tract</li>
+  <li>Serum concentrations >5mcg/mL are toxic in adults</li>
+  <li>Excreted in urine</li>
+  <li>Use: treatment of acute infections caused by Pseudamonas aeruginosa; parenteral use reserved for life-threatening infections caused by organisms resistant to the preferred drugs </li>
+  <li>Typical dose: </li>
+    <ul>
+      <li>Otic drops 1-2 drops 3-4x daily</li>
+      <li>Systemic: IV 15,000-25,000 units/kg/day divided q12h</li>
+    </ul>
+  <li>Adverse effects: nephrotoxicity, neurotoxicity, neuromuscular blockade</li>
+</div>
+<!-- End -->
+
+<!-- 120 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Colistin, colistimethate (Coly-Mycin M)</h1>
+    <li>A polymixin antibiotic</li>
+<li>Activity against susceptible Acinetobacter and Pseudomonas</li>
+<li>Does NOT have activity against Proteus, Serratia, Providencia, Burkholderia, gram-negative cocci, gram-positive organisms, or anaerobes</li>
+<li>Pregnancy risk C</li>
+<li>Excreted in urine</li>
+<li>Use: treatment of acute/chronic infections due to sensitive strains of particular gram-negative bacilli (P. aeruginosa) resistant to other antibiotics or in patients with allergies to other antibiotics</li>
+<li>Typical dose: IM, IV 2.5-5 mg/kg/day divided into 2-4 doses (max 5mg/kg/day; adjust for renal function and dialysis)</li>
+<li>Toxicity: renal impairment, neurotoxicity, neuromuscular blockade</li>
+</div>
+<!-- End -->
+
+<!-- 121 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Anti-tuberculin antibiotics; Tuberculosis treatment</h1>
+  <li>SRifampin</li>
+<li>Isoniazid</li>
+<li>Pyrazinamide</li>
+<li>Ethambutol</li>
+<li>Streptomycin</li>
+</div>
+<!-- End -->
+
+<!-- 122 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Active tuberculosis treatment</h1>
+    <li>A patient with dyspnea, fever, productive cough, and night sweats with a upper lobe consolidation on chest X-ray</li>
+<ul><li>6 month regimen: 2 months of isoniazid, rifampin, pyrazinamide, 4 months of isoniazid and rifampin</li>
+<li>9 month regimen: 9 months of isoniazid and rifampin</li>
+<li>Pyrazinamide is rapidly bacteriocidal to Mycobacterium tuberculosis, but risk of liver toxicity great</li>
+</div>
+<!-- End -->
+
+<!-- 123 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>PPD Reactors; Latent Mycobacterium tuberculosis</h1>
+  <li>Isoniazid is used alone for 6-12 months</li>
+<li>Risk of isoniazid hepatitis increases with increasing age and alcohol consumption</li>
+<li>If resistance is suspected: 4 or more first line drugs (INH, rifampin, pyrazinamide, ethambutol, or streptomycin)</li>
+</div>
+<!-- End -->
+
+<!-- 124 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Isoniazid (Isotamine)</h1>
+    <li>Inhibits the synthesis of mycoloic acids (component of the bacterial cell wall); at therapeutic concentrations is bacteriocidal against extracellular and intracellular Mycobacterium tuberculosis</li>
+<li>Inexpensive, taken orally</li>
+<li>May decrease folic acid absorption and alters pyridoxine (B6) metabolism (encourage increased dietary intake of folate, niacin, and magnesium)</li>
+<li>Pregnancy risk C</li>
+<li>Metabolized by acetylation in the liver (rate is genetically determined); excreted in urine</li>
+<li>Use: active tuberculosis infection, latent tuberculosis infection</li>
+<li>Typical dose: Oral 5mg/kg/day once daily (usually not given without concomitant rifampin/pyrazinamide); available IM</li>
+<li>Adverse effects: </li>
+<ul><li>Hepatotoxicity (alcohol increases the metabolism of INH)</li>
+<li>Increases the urinary  excretion and depletion of pyridoxine (vitamin B6), leading to peripheral neuropathy,  rash and anemia</li></ul>
+</div>
+<!-- End -->
+
+
+<!-- 125 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Rifampin (Rifadin, Rofact)</h1>
+  <li>Rifampin inhibits the DNA-dependent RNA polymerase of Mycobacterium tuberculosis; blocks RNA transcription;  bacteriocidal</li>
+<li>Food decreases the extent of absorption, administer 1 hr prior or 2 hr after meals/antacids</li>
+<li>Urine, feces, saliva, sweat and tears are colored a bright red-orange color</li>
+<li>Strong CYP3A4 inducer</li>
+<li>Pregnancy risk C</li>
+<li>Undergoes enterohepatic circulation, metabolized in the liver;  excreted in feces (60-65%) and urine.</li>
+<li>Use: management of active TB in combination with other agents; elimination of meningococci from the nasopharynx in asymptomatic carriers</li>
+<li>Typical dose; Oral, IV 10mg/kg/day (max 600mg/day)</li>
+<li>Adverse effects:</li>
+<ul><li>Hepatitis</li>
+<li>Induces cytochrome P450 enzyme system – decreases the half-lives of drugs like coumadin, OCPs, oral hypoglycemics and corticosteroids, phenytoin</li></ul>
+</div>
+<!-- End -->
+
+<!-- 126 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Rifabutin (Mycobutin)</h1>
+    <li>Similar in structure to rifampin; works by inhibiting DNA-dependent RNA polymerase at the beta-subunit; preventing transcription</li>
+<li>Commonly used in treatment of Mycobacterium intracellulare</li>
+<li>Induces cytochrome P450 CYP3A4  less than rifampin, but still a strong inducer</li>
+<li>Pregnancy risk B</li>
+<li>Excreted in urine and feces.</li>
+<li>Use: prevention of disseminated Mycobacterium avium complex in patients with advanced HIV infection; alternative to rifampin for latent TB infection or in multidrug regimen for treatment of active TB</li>
+<li>Typical dose: Oral 300mg once daily</li>
+</div>
+<!-- End -->
+
+<!-- 127 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Pyrazinamide (Tebrazid)</h1>
+  <li>Unknown mechanism of action, converted into pyrazinoic acid in presence of susceptible Mycobacterium (lowers pH); bacteriostatic/bacteriocidal depending on drug concentration at infection site</li>
+<li>Use: adjunct treatment for tuberculosis</li>
+<li>Pregnancy risk C</li>
+<li>Hepatic metabolism, excreted in urine</li>
+<li>Dosing based on lean body weight, ranges from 1000mg-3000mg daily or 3x/week</li>
+<li>Adverse effects:</li>
+<ul><li>Hepatotoxic</li>
+<li>May inhibit uric acid excretion; gout attacks</li>
+</div>
+<!-- End -->
+
+<!-- 128 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Ethambutol (Myambutol)</h1>
+    <li>Inhibits arabinosyl transferase which impairs mycobacterial cell wall synthesis</li>
+<li>Contraindicated in young children in whom visual acuity cannot be accurately assessed and in unconscious patients/others who cannot report vision changes</li>
+<li>Pregnancy risk C</li>
+<li>Hepatic metabolism; excreted through urine and feces</li>
+<li>Use: treatment of pulmonary tuberculosis in combination with other antituberculosis drugs; treatment of disseminated Mycobacterium avium in advance HIV patients; non-tuberculosis mycobacterium</li>
+<li>Dosing depends on lean body weight: Oral 15-50mg/kg daily, 2x or 3x weekly</li>
+<li>Adverse effects:</li>
+<ul><li>Dose-dependent, reversible, ocular toxicity: decreased visual acuity with loss of central vision (central scotomata), color vision loss</li></ul>
+</div>
+<!-- End -->
+
+<!-- 129 This is a new slide -->
+<div class="Question"><!-- Picture, Test, Question-->
+  <h1>Which of the following are drugs used to treat Mycobacterium tuberculosis?</h1>
+  <ul><li><b>Streptomycin</b></li>
+<li>Clindamycin</li>
+<li><b>Isoniazid</b></li>
+<li>Linezolid</li>
+<li><b>Rifampin</b></li>
+<li>Gentamicin</li>
+<li><b>Pyrazinamide</b></li>
+<li><b>Ethambutol</b></li>
+<li>Metronidazole</li></ul>
+</div>
+<!-- End -->
+
+<!-- 130 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Treatment of Leprosy</h1>
+    <li>Dapsone</li>
+<li>Rifampin</li>
+<li>Clofazimine</li>
+<li>Severe cases of leprosy should be treated with rifampin, dapsone, and clofazimine for a minimum of 2 years</li>
+<li>Less severe cases are treated with rifampin and dapsone for 6 months</li>
+</div>
+<!-- End -->
+
+<!-- 131 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Clofazimine (Available internationally from WHO: Hansepran, Lampren)</h1>
+  <li>Works by binding to the DNA of Mycobacterium leprae; has anti-inflammatory properties</li>
+<li>Red-colored compound, deposits in skin and conjunctiva</li>
+<li>Turns leprosy lesions tan/black</li>
+<li>Reported use: Hansen’s disease (Leprosy)</li>
+<li>Investigational: rarely in multidrug resistant tuberculosis and in MAC complex infections in patients with AIDS</li>
+<li>Dosage range: 50mg/day (in combination with dapsone and rifampin) for 24 months</li>
+</div>
+<!-- End -->
+
+<!-- 132 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Sulfones</h1>
+    <li>Dapsone, Sulfoxone</li>
+<li>PABA antagonist (similar to sulfonamides) Results in blockage of dihydrofolic acid synthesis (precursor to tetrahydrofolic acid) which is used in the synthesis of purines = inhibition of bacterial DNA synthesis</li>
+<li>Metabolized in the liver via acetylation, excreted in urine</li>
+<li>Adverse effects include skin rash, fever, bone marrow suppression (agranulocytosis)</li>
+</div>
+<!-- End -->
+
+<!-- 133 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Dapsone</h1>
+  <li>Pregnancy risk C</li>
+<li>Use: treatment of leprosy (susceptible strains of Mycobacterium leprae) and dermatitis herpetiformis</li>
+<li>Off-label: apthous ulcers (severe), bullous SLE, idiopathic thrombocytopenic purpura; pemphigus vulgaris, PCP prophylaxis, PCP treatment, toxoplasmosis prophylaxis is immunocompromised patients</li>
+<li>Typical dose range: 25-100mg daily</li>
+<li>Adverse effects: blood dyscrasias (aplastic anemia, agranulocytosis), hemolysis</li>
+</div>
+<!-- End -->
+
+<!-- 134 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Antimetabolites</h1>
+    <li>Trimethoprim and sulfamethoxazole</li>
+<li>Sulfamethoxazole is a competitive inhibitor of bacterial production of tetrahydrofolate; it resembles para-amino-benozoic acid (PABA), which is used to make to make tetrahydrofolate.</li>
+<li>Tetrahydrofolate is used as a carbon-donor for the synthesis of purines, and other substances. After donating a carbon, it  is reduced back to tetrahydofolate by the enzyme dihydrofolate reductase. Trimethoprim competitively inhibits dihydrofolate reductase.</li>
+<li>Trimethroprim and sulfamethoxazole act synergistically to kill many gram positive and gram negative bacteria. </li>
+<li>Oral absorption, metabolized in liver, excreted in the urine</li>
+<li>Adverse effects: nausea, vomiting, diarrhea, skin rashes, increases warfarin levels, bone marrow suppression in patients with AIDS, do not use in pregnancy (can cause folate deficiency and neural tube defects in first trimester)</li>
+<li>Used to prevent PCP when CD4+ T cell counts drop below 200-250</li>
+</div>
+<!-- End -->
+
+<!-- 135 This is a new slide -->
+<div class="Picture"><!-- Picture, Test, Question-->Help
+  <h1>Trimethoprim-sulfamethoxazole mechanism</h1>
+Insert picture/diagram  
+</div>
+<!-- End -->
+
+<!-- 136 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Trimethoprim-Sulfamethoxazole (Bactrim, Septra DS, Sulfatrim)</h1>
+    <li>Wide gram-positive and gram-negative coverage, but no anaerobic coverage</li>
+<li>Pregnancy risk D</li>
+<li>Uses: Oral treatment of acute otitis, bronchitis, pneumonia caused by Streptococcus pneumoniae, Haemophilus influenzae (otitis media, sinusitis, bronchitis, pneumonia); traveler’s diarrhea due to enterotoxigenic E. coli; enteritis caused by gram negative organisms (Shigella, Salmonella); UTI, prostatitis, urethritis (Enterics, N. gonorrhoeae, and Chlamydia); PCP prophylaxis; treatment of Toxoplasma gondi and Isospora beli; treatment of Nocardia</li>
+<li>Off-label: brain abscess, empyema, epidural abscess, osteomyelitis (MRSA), toxoplasma gondii encephalitis</li>
+<li>Typical dose: </li>
+<ul><li>Oral 1-2 double strength tabs (Sulfamethoxazole 800 mg; trimethoprim 160mg) q12-24h</li>
+<li>IV 8-20mg TMP/kg/day divided q6-12h</li></ul>
+<li>Adverse effects: blood dyscrasias (agranulocytosis, aplastic anemia, thrombocytopenia), hepatic necrosis, hyperkalemia, hypoglycemia, hyponatremia, sulfonamide allergies</li>
+</div>
+<!-- End -->
+
+<!-- 137 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Nitrofurantoin (Furadantin, Macrobid, Macrodantin)</h1>
+  <li>Metabolites inactivate or alter bacterial ribosomal proteins leading to protein synthesis, DNA, RNA, and cell wall synthesis inhibition; disrupts aerobic energy metabolism</li>
+<li>Contraindicated if anuric, oliguric, or significant renal impairment; contraindicated in pregnant patients at term (possibility of hemolytic anemia)</li>
+<li>Pregnancy risk B</li>
+<li>Use: UTI (bladder only) when caused by susceptible strains of E. coli, enterococci, Staphylococcus aureus, Klebsiella, Enterobacter species; acute cystitis</li>
+<li>Typical dose: 50-100mg/dose q6h for 7 days</li>
+<li>Adverse effects: Hepatic reactions, pulmonary toxicity, G6PD hemolysis, methenamine</li>
+</div>
+<!-- End -->
+
+<!-- 138 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Metronidazole (Flagyl, Metro)</h1>
+    <li>DNA/macromolecule drug – interacts with DNA to cause loss of helical structure and strand breakage = inhibiting protein synthesis and leading to cell death in susceptible organisms</li>
+<li>Anaerobic, protazoans</li>
+<li>Pregnancy risk B</li>
+<li>Hepatic metabolism, excreted in urine, and feces</li>
+<li>Use: Amebiasis, anaerobic bacterial infections (Bacteroides spp) – sepsis, joint infections, CNS infections, endocarditis, lower respiratory tract, gynecologic, intraabdominal, skin/skin structure infections; bacterial vaginosis, trichomoniasis, surgical prophylaxis (colorectal)</li>
+<li>Off-label: C diff infections, dientamoeba fragilis, giardiasis, H. pylori eradication, PID, balantidiasis, sinusitis, prophylaxis after sexual assault, urethritis, tetanus</li>
+<li>Typical dose: Oral, IV 500-750mg q8h</li>
+<li>Disulfuram-like reactions, carcinogenic in mice and rats</li>
+</div>
+<!-- End -->
+
+<!-- 139 This is a new slide -->
+<div class="Question"><!-- Picture, Test, Question-->
+  <h1>Which of the following drugs can be used to treat Clostridium difficile?</h1>
+  <ul><li> Oral levofloxacin</li>
+<li>Oral clindamycin</li>
+<li><b> Oral metronidazole</b></li>
+<li>Intravenous vancomycin</li>
+<li><b> Oral vancomycin </b></li>
+</div>
+<!-- End -->
+
+<!-- 140 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Antibiotics covering the anaerobes (B. fragilis)</h1>
+    <li>Penicillins w/ beta-lactamase inhibitor –</li>
+<ul><li>Augmentin</li>
+<li>Timentin</li>
+<li>Unasyn</li>
+<li>Zosyn</li></ul>
+<li>2nd generation cephalosporins</li>
+<ul><li>Cefoxitin</li>
+<li>Cefotetan</li></ul>
+<li>Carbapenems</li>
+<ul><li>Imipenem</li>
+<li>Meropenem</li></ul>
+<li>Chloramphenicol</li>
+<li>Clindamycin</li>
+<li>Metronidazole</li>
+</div>
+<!-- End -->
+
+<!-- 141 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Anti-pseudamonal Antibiotics</h1>
+  <li>Antipseudamonal Penicillins</li>
+<ul><li>Ticaricillin (Timentin),</li> 
+<li>Piperacillin (Zosyn)</li></ul>
+<li>3rd generation cephalosporin</li>
+<ul><li>Ceftazidime,</li> 
+<li>Cefoperazone</li></ul>
+<li>4th generation cephalosporin - Cefepime</li>
+<li>Carbapenems</li>
+<ul><li>Imipenem,</li> 
+<li>Meropenem,</li> 
+<li>Doripenem</li></ul>
+<li>Monobactam - Aztreonam </li>
+<li>Quinolones</li> 
+<ul><li>Ciprofloxacin</li>
+<li>Levofloxacin</li></ul>
+<li>Aminoglycosides</li> 
+<ul><li>Gentamicin,</li>
+<li>Tobramycin,</li> 
+<li>Amikacin</li></ul>
+<li>Polymixins</li> 
+<ul><li>Polymixin B</li>
+<li>Colistin</li></ul>
+</div>
+<!-- End -->
+
+<!-- 142 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Antibiotics that treat MRSA</h1>
+    <li>Clindamycin</li>
+<li>Daptomycin</li>
+<li>Linezolid</li>
+<li>Doxycycline</li>
+<li>Tigecycline</li>
+<li>Mupirocin (topical)</li>
+<li>Trimethoprim-sulfamethoxazole</li>
+<li>Vancomycin</li>
+</div>
+<!-- End -->
+
+<!-- 143 This is a new slide -->
+<div class="Picture"><!-- Picture, Test, Question-->Help.
+  <h1>Spectrum of Activity</h1>
+Insert picture  
+</div>
+<!-- End -->
+
+<!-- 144 This is a new slide -->
+<div class="Question"><!-- Picture, Test, Question-->
+  <h1>Which of the following antibiotics function by inhibiting RNA synthesis?</h1>
+  <ul>
+    <li>Chloramphenicol</li>
+<li>Dapsone</li>
+<li><b>Rifampin </b></li>
+<li>Isoniazid</li>
+<li>Levofloxacin</li>
+<li><b>Metronidazole</b></li>
+</ul>
+</div>
+<!-- End -->
+
+<!-- 145 This is a new slide -->
+<div class="Question"><!-- Picture, Test, Question-->
+  <h1>Which antibiotics function by disrupting bacterial purine synthesis?</h1>
+  <ul><li><b>Bactrim</b></li>
+<li>Metronidazole</li>
+<li>Imipenem</li>
+<li>Chloramphenicol</li>
+<li>Cefotetan</li>
+<li>Ampicillin</li>
+<li>Polymixin</li>
+</div>
+<!-- End -->
+
+<!-- 146 This is a new slide -->
+<div class="Question"><!-- Picture, Test, Question-->
+  <h1>Which of the following antibiotics function by inhibiting protein synthesis?</h1>
+  <ul>
+    <li>Ertapenem</li> 
+<li>Ciprofloxacin</li>
+<li>Ethambutol</li>
+<li>Vancomycin</li>
+<li><b>Linezolid </b></li>
+<li>Ceftriaxone</li>
+  </ul>
+</div>
+<!-- End -->
+
+
+<!-- 147 This is a new slide -->
+<div class="Question"><!-- Picture, Test, Question-->
+  <h1>Which antibiotics function by disrupting the cell membrane?</h1>
+  <ul>
+    <li>Aztreonam</li>
+<li><b>Polymixin</b></li>
+<li>Dapsone</li>
+<li>Moxifloxacin</li>
+<li>Ceftaroline</li>
+<li>Penicillin G</li>
+  </ul>
+</div>
+<!-- End -->
+
+<!-- 148 This is a new slide -->
+<div class="Question"><!-- Picture, Test, Question-->
+  <h1>Which of the following antibiotics work by inhibiting cell wall synthesis?</h1>
+<ul>  <li><b>Penicillin</b></li>
+<li><b>Cefepime</b></li>
+<li><b>Doripenem</b>M/li>
+<li>Levofloxacin</li>
+<li>Ciprofloxacin</li>
+<li><b>Zosyn</b></li>
+<li><b>Rocephin</b></li>
+</div>
+<!-- End -->
+
+<!-- 149 This is a new slide --> Help - may take this question out
+<div class="Question"><!-- Picture, Test, Question-->
+  <h1>Match the antibiotics to their sites of action. (needs edit)</h1>
+  
+</div>
+<!-- End -->
+
+<!-- 150 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Which of the following has the best gram-negative coverage?</h1>
+  <ul>
+<li>Vancomycin</li>
+<li>Daptomycin</li>
+<li>Isoniazid</li>
+<li>Penicillin G</li>
+<li><b>Aztreonam</b></li>
+<li>Pyrazinamide</li>
+</div>
+<!-- End -->
+
+<!-- 151 This is a new slide -->
+<div class="Question"><!-- Picture, Test, Question-->
+  <h1>Which of the following classes of antibiotics is has a class D pregnancy risk?</h1>
+  <ul>
+    <li>Penicillins</li>
+<li> Cephalosporins</li>
+<li>Carbapenems</li>
+<li>Monobactams</li>
+<li>Macrolides</li>
+<li><b>Aminoglycosides </b></li>
+<li>Quinolones</li>
+<li><b>Tetracyclines</b></li>
+  </ul>
+</div>
+<!-- End -->
+
+<!-- 152 This is a new slide -->
+<div class="Question"><!-- Picture, Test, Question-->
+  <h1>Which of the following has only gram-positive coverage?</h1>
+  <ul><li>Amoxicillin</li>
+<li>Ethambutol</li>
+<li>Clofazimine</li>
+<li>Erythromycin</li>
+<li>Gentamicin</li>
+<li><b>Vancomycin</b></li>
+<li>Doxycycline</li>
+</div>
+<!-- End -->
+
+<!-- 153 This is a new slide -->
+<div class="Question"><!-- Picture, Test, Question-->
+  <h1>Which of the following has anaerobic coverage?</h1>
+  <ul>
+    <li><b>Augmentin</b></li>
+<li><b>Imipenem</b></li>
+<li>Cefepime</li>
+<li><b>Cefoxitin</b></li>
+<li><b>Ticaricillin</b></li>
+<li><b> Metronidazole</b></li>
+<li><b>Clindamycin</b></li>
+  </ul>
+</div>
+<!-- End -->
+
+<!-- 154 This is a new slide -->
+<div class="Question"><!-- Picture, Test, Question-->
+  <h1>Which of the following is an aminoglycoside?</h1>
+  <li><b> Amikacin</b></li>
+<li><b>Gentamicin</b></li>
+<li>Erythromycin</b></li>
+<li>Ertapenem</li>
+<li> Azithromycin</li>
+<li>Telithromycin</li>
+<li> Clarithromycin</li>
+<li><b>Tobramycin</b></li>
+<li><b>Neomycin</b></li>
+<li>Fosfomycin</li>
+<li>Vancomycin</li>
+<li><b>Paromomycin</b></li>
+</div>
+<!-- End -->
+
+<!-- 155 This is a new slide -->
+<div class="Question"><!-- Picture, Test, Question-->
+  <h1>Which of the following is a fluoroquinolone?</h1>
+  <ul>
+    <li><b>Moxifloxacin</b></li>
+<li>Tetracycline</li>
+<li>Doxycycline</li>
+<li><b>Levofloxacin</b></li>
+<li><b>Ciprofloxacin</b></li>
+<li>Nitrofurantoin</li>
+  </ul>
+</div>
+<!-- End -->
+
+<!-- 156 This is a new slide -->
+<div class="Question"><!-- Picture, Test, Question-->
+  <h1>Which of the following is a beta lactam antibiotic?</h1>
+  <ul>
+    <li>Linezolid</li>
+<li>Daptomycin</li>
+<li><b>Ampicillin</b></li>
+<li>Vancomycin</li>
+<li>Demeclocycline</li>
+<li>Tigecycline</li>
+  </ul>
+</div>
+<!-- End -->
+
+<!-- 157 This is a new slide -->
+<div class="Question"><!-- Picture, Test, Question-->
+  <h1>Which of the antibiotics cover Pseudamonas aeruginosa?</h1>
+  <ul>
+    <li>Ceftaroline</li>
+<li>Ceftriaxone</li>
+<li>Azithromycin</li>
+<li><b>Cefepime</b></li>
+<li>Trimethoprim-sulfamethoxazole</li> 
+<li><b>Aztreonam</b></li>
+<li>Vancomycin</li>
+<li><b>Piperacillin-tazobactam</b></li>
+<li><b>Gentamicin</b></li>
+  </ul>
+</div>
+<!-- End -->
+
+<!-- 158 This is a new slide -->
+<div class="Question"><!-- Picture, Test, Question-->
+  <h1>WWhich of the following antibiotics DOES NOT cover MRSA?</h1>
+  <ul>
+    <li>Clindamycin</li>
+<li>Daptomycin</li>
+<li>Linezolid</li>
+<li>Doxycycline</li>
+<li>Tigecycline</li>
+<li>Trimethoprim-sulfamethoxazole</li>
+<li>Vancomycin</li>
+<li><b>Piperacillin-tazobactam</b></li>
+  </ul>
+</div>
+<!-- End -->
+
+<!-- 159 This is a new slide -->
+<div class="Question"><!-- Picture, Test, Question-->
+  <h1>At what serum level of vancomycin would it be considered toxic?</h1>
+  <ul>
+    <li>5 mcg/mL</li>
+<li>10 mcg/mL</li>
+<li>15 mcg/mL</li>
+<li>20 mcg/mL</li>
+<li>25 mcg/mL </li>
+<li>50 mcg/mL </li>
+<li><b> >80 mcg/mL</b></li>
+  </ul>
+</div>
+<!-- End -->
+
+<!-- 160 This is a new slide -->
+<div class="Question"><!-- Picture, Test, Question-->
+  <h1>What is the mechanism of action of carbapenems?</h1>
+  <ul>
+    <li><b>inhibits the transpeptidase enzyme</b></li>
+<li>binds to the 30s subunit of bacterial ribosome and inhibits protein synthesis</li>
+<li>binds to the DNA-dependent RNA polymerase and inhibits transcription</li>
+<li>inhibits DNA gyrase</li>
+<li>inhibits dihydrofolic acid reductase</li>
+  </ul>
+</div>
+<!-- End -->
+
+<!-- 161 This is a new slide -->
+<div class="Matching"><!-- Picture, Test, Question-->Help!
+  <h1>Match the following antibiotics with their commercial names.</h1>
+  <ul>
+    <li>A. Ceftriaxone</li>
+<li>B. Cefazolin</li>
+<li>C. Cephalexin</li>
+<li>D. Piperacillin-tazobactam</li>
+<li>E. Trimethoprim-sulfamethoxazole</li>
+<li>F. Metronidazole</li>
+<li>G. Azithromycin</li>
+
+<li>Flagyl</li>
+<li>Bactrim</li>
+<li>Ancef</li>
+<li>Zosyn<li>
+<li>Rocephin</li>
+<li>Z-pak</li>
+<li>Keflex</li>
+
+  </ul>
+</div>
+<!-- End -->
+
+<!-- 162 This is a new slide -->
+<div class="Question"><!-- Picture, Test, Question-->
+  <h1>Which of the following antibiotics is contained in triple antibiotic ointment?</h1>
+  <ul>
+    <li>Amoxicillin</li>
+<li><b>Polymixin B <.b></li>
+<li>Colistin</li>
+<li><b>Neomycin</b></li>
+<li>Penicillin</li>
+<li><b>Bacitracin </b></li>
+  </ul>
+</div>
+<!-- End -->
+
+<!-- 163 This is a new slide -->
+<div class="Question"><!-- Picture, Test, Question-->
+  <h1>Which drug’s activity is affected by pH?</h1>
+  <ul>
+    <li><b>Gentamicin</b></li>
+<li>Vancomycin</li>
+<li>Daptomycin</li>
+<li><b>Tetracycline</b></li>
+<li>Isoniazid</li>
+  </ul>
+</div>
+<!-- End -->
+
+
+<!-- 164 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>Selection of antimicrobials</h1>
+    <li>Selection of the most appropriate drug depends on many factors: </li>
+<ul><li>(1) identity of the organism and its susceptibility to a particular drug, </li>
+<li>(2) site of infection, </li>
+<li>(3) safety of the drug, and </li>
+<li>(4) patient-specific factors.</li></ul>
+<li>Unfortunately, it is often not possible or practical to wait for identification and is necessary to begin with empirical initial therapy and then modify the regimen following culture results.</li>
+</div>
+<!-- End -->
+
+<!-- 165 This is a new slide -->
+<div class="Text"><!-- Picture, Test, Question-->
+  <h1>References</h1>
+    <li>UpToDate.com (All named antibiotic pages)</li>
+<li>Block 6 Lectures from academic year 2012-2013</li>
+<li>Antimicrobial Stewardship Program – Antibiotic Overview (www.asp.mednet.ucla.edu/files/view/guidebook/Antibiotics.pdf)</li>
+</div>
+<!-- End -->
+
+<!-- 166 This is a new slide -->
+<div class="Feedback"><!-- Picture, Test, Question-->Help
+  <h1>Feedback</h1>
+    <li>What comments do you have?</li>
+insert text box
+
+<li>Was this helpful for you?</li>
+Insert text box
+
+
+Thank you!
+
+</div>
+<!-- End -->
+
+
+
+
+</li>
+</div>
+<!-- End -->
+
+
+
+
+</div>
+<!-- End -->
