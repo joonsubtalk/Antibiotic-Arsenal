@@ -14,4 +14,9 @@ $year = date("Y"); // Gets server year
 $copyright = "&copy;". $year ." Joon-Sub Chung";
 $pageContent = -1;
 
+// What email the verify email comes from
+$sendFromEmail = 'chungjoonsub@gmail.com';
+$verifySubject = 'Subject line to be sent';
+$emailMsg = 'The message to be sent';
+
 require_once("credential.php");
